@@ -1,0 +1,102 @@
+name: Parse Billboard Chart and Save as JSON
+
+on:
+  schedule:
+    - cron: '0 9,10 * * 3'
+  push:
+    # Ignore workflow file updates
+    paths-ignore:
+      - '.github/workflows/*'
+  workflow_dispatch:
+
+jobs:
+  # Check if it's 10 PM (only for automated triggers)
+  check-time:
+    if: github.event_name != 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    outputs:
+      run_tasks: ${{ steps.check.outputs.run_tasks }}
+
+    steps:
+      - name: Check if it's 10 PM
+        id: check
+        run: |
+          current_hour=$(TZ='Pacific/Auckland' date +'%H')
+          echo "Current hour in NZ: $current_hour"
+          if [ "$current_hour" -eq 22 ]; then
+            echo "run_tasks=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  # Handle manual triggers
+  manual-trigger:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug Outputs
+        run: |
+          echo "github.event_name: ${{ github.event_name }}"
+
+  # Handle automated triggers based on time check
+  automated-trigger:
+    if: github.event_name != 'workflow_dispatch' && needs.check-time.outputs.run_tasks == 'true'
+    needs: [check-time]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug Outputs
+        run: |
+          echo "github.event_name: ${{ github.event_name }}"
+          echo "needs.check-time.result: ${{ needs.check-time.result }}"
+          echo "needs.check-time.outputs.run_tasks: ${{ needs.check-time.outputs.run_tasks }}"
+
+  # Parse data and save, depending on the time check or manual trigger
+  parse-and-save:
+    if: always() && (needs.manual-trigger.result == 'success' || needs.automated-trigger.result == 'success')
+    needs: [manual-trigger, automated-trigger]
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+
+      - name: Install dependencies
+        run: npm install cheerio luxon
+
+      - name: Run script and save chart as JSON
+        run: node saveChart.js
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+
+      - name: Remove node_modules and npm files
+        run: |
+          rm -rf node_modules
+          rm -f npm-debug.log
+          rm -f package*
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'Mark Wasley'
+          git config --global user.email 'mark@markwasley.net.nz'
+
+      - name: Stage and Commit Changes
+        run: |
+          git add .
+          git status
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Billboard chart data" || echo "No changes to commit"
+          fi
+
+      - name: Push Changes
+        run: |
+          if ! git push https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git; then
+            echo "Push failed. Attempting a force push."
+            git push --force-with-lease https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git || echo "Force push also failed"
+          fi
