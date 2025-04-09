@@ -237,7 +237,7 @@ async function saveChart(url) {
 
 			if (match) {
 				// Add square brackets to make it a valid JSON array
-				ce = '[' + match[1] + ']';
+				let ce = '[' + match[1] + ']';
 				// // Add quotes around keys to make array
 				ce = ce.replace(/(\w+):/g, '"$1":');
 				elements = JSON.parse(ce);
