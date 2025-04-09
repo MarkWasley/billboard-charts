@@ -70,7 +70,8 @@ async function fetchSpotifyData(title, artist) {
 		const allowedArtists = [
 			"Brooks & Dunn",
 			"Hootie & the Blowfish",
-			"Maddie & Tae"
+			"Maddie & Tae",
+			"Thelma & James"
 		];
 		const artistSeparators = [
 			", ",
@@ -91,6 +92,8 @@ async function fetchSpotifyData(title, artist) {
 		artist = artist.replace(/Blue Oyster Cult/g, 'Blue Öyster Cult');
 		artist = artist.replace(/Beyonce/g, 'Beyoncé');
 		artist = artist.replace(/Jose Feliciano/g, 'José Feliciano');
+		artist = artist.replace(/Wolfe Brothers  The/g, 'The Wolfe Brothers');
+		artist = artist.replace(/Wolfe Brothers The/g, 'The Wolfe Brothers');
 		artist = artist.replace(/\b(Featuring|feat|With)\.?|\s*\/\s*|\s*,\s*/gi, '&');
 
 		let query = `${title} ${artist}`;
@@ -234,6 +237,7 @@ async function saveChart(url) {
 		const processEntries = async () => {
 			const scriptContent = $('script').text();
 			const match = scriptContent.match(/chartEntries\s*:\s*\[([^\]]*)\]/);
+			let elements = [];
 
 			if (match) {
 				// Add square brackets to make it a valid JSON array
