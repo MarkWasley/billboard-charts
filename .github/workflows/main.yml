@@ -76,7 +76,7 @@ jobs:
         run: |
           rm -rf node_modules
           rm -f npm-debug.log
-          rm -f package*
+          git restore package.json package-lock.json
 
       - name: Set up Git
         run: |
