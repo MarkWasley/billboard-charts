@@ -96,7 +96,7 @@ jobs:
 
       - name: Push Changes
         run: |
-          if ! git push https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git; then
+          if ! git push https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts.git; then
             echo "Push failed. Attempting a force push."
-            git push --force-with-lease https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts-2.git || echo "Force push also failed"
+            git push --force-with-lease https://${{ secrets.GITHUB_TOKEN }}@github.com/MarkWasley/billboard-charts.git || echo "Force push also failed"
           fi
