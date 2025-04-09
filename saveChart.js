@@ -1,6 +1,6 @@
-const cheerio = require('cheerio');
-const fs = require('fs');
-const { DateTime } = require('luxon');
+import * as cheerio from 'cheerio';
+import * as fs from 'fs';
+import { DateTime } from 'luxon';
 
 const COUNTRY_SONGS_URL = 'https://www.billboard.com/charts/country-songs/';
 const COUNTRY_AIRPLAY_URL = 'https://www.billboard.com/charts/country-airplay/';

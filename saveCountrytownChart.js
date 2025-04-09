@@ -1,6 +1,6 @@
-const cheerio = require('cheerio');
-const fs = require('fs');
-const { DateTime } = require('luxon');
+import * as cheerio from 'cheerio';
+import * as fs from 'fs';
+import { DateTime } from 'luxon';
 
 const COUNTRYTOWN_URL = 'https://countrytown.com/charts/countrytown-hot-50';
 const TIMEZONE = 'Pacific/Auckland';
