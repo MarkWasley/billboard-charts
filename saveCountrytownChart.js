@@ -71,7 +71,8 @@ async function fetchSpotifyData(title, artist) {
 			"Brooks & Dunn",
 			"Hootie & the Blowfish",
 			"Maddie & Tae",
-			"Thelma & James"
+			"Thelma & James",
+			"Zac & George"
 		];
 		const artistSeparators = [
 			", ",
@@ -94,6 +95,8 @@ async function fetchSpotifyData(title, artist) {
 		artist = artist.replace(/Jose Feliciano/g, 'José Feliciano');
 		artist = artist.replace(/Wolfe Brothers  The/g, 'The Wolfe Brothers');
 		artist = artist.replace(/Wolfe Brothers The/g, 'The Wolfe Brothers');
+        artist = artist.replace(/Wiggles  The/g, 'The Wiggles');
+		artist = artist.replace(/Wiggles The/g, 'The Wiggles');
 		artist = artist.replace(/\b(Featuring|feat|With)\.?|\s*\/\s*|\s*,\s*/gi, '&');
 
 		let query = `${title} ${artist}`;
@@ -142,25 +145,26 @@ async function fetchSpotifyData(title, artist) {
 			const featRegex = /\s*\((f(?:ea)?t(?:uring)?\.?\s.*?|.*?\s?with\s.*?)\)|\s*- Spotify Singles(?: Holiday)?/i;
 			const matches = cleanTrackName.match(featRegex);
 
-			if (matches) {
-				const newCleanTrackName = cleanTrackName.split(matches[0])[0].trim();
-				const featuredArtistBit = matches[0];
+            if (matches) {
+                const newCleanTrackName = cleanTrackName.split(matches[0])[0].trim();
+                const featuredArtistBit = matches[0];
 
-				if (
-					title.toUpperCase() === newCleanTrackName.toUpperCase() &&
-					(
-						result.artists.some(art => art.name.toUpperCase().includes(cleanNames(artist).toUpperCase())) ||
-						result.artists.some(art => art.name.toUpperCase().includes(`THE ${cleanNames(artist).toUpperCase()}`)) ||
-						result.artists.some(art => art.name.toUpperCase().includes(cleanNames(artist).toUpperCase().replace(/^THE /, '')))
-					)
-				) {
-					if (result.album.album_type === "album") {
-						artistMatch = "step2 (album)";
-					} else if (!fallbackResult) {
-						artistMatch = "step2 (single)";
-					}
-				}
-			}
+                if (
+                    title.toUpperCase() === newCleanTrackName.toUpperCase() &&
+                    (
+                        result.artists.some(art => art.name.toUpperCase().includes(cleanNames(artist).toUpperCase())) ||
+                        result.artists.some(art => art.name.toUpperCase().includes(`THE ${cleanNames(artist).toUpperCase()}`)) ||
+                        result.artists.some(art => art.name.toUpperCase().includes(cleanNames(artist).toUpperCase().replace(/^THE /, '')))
+                    )
+                ) {
+                    if (result.album.album_type === "album") {
+                        artistMatch = "step2 (album)";
+                    } else if (!fallbackResult) {
+                        artistMatch = "step2 (single)";
+                    }
+                }
+                cleanTrackName = newCleanTrackName;
+            }
 
 			async function fetchAppleMusicPreview(title, artist, retries = 3, delay = 1000) {
 				for (let attempt = 0; attempt < retries; attempt++) {
@@ -178,28 +182,29 @@ async function fetchSpotifyData(title, artist) {
 				return "Not found";
 			}
 
-			if (artistMatch) {
-				const resultData = {
-					artistQueried: artist,
-					id: result.id,
-					name: result.name,
-					artists: result.artists.map(art => art.name),
-					album_name: result.album.name,
-					type: result.album.album_type,
-					artistMatch: artistMatch,
-					isrc: result.external_ids.isrc,
-					preview: await fetchAppleMusicPreview(cleanTrackName, artist),
-				};
+            if (artistMatch) {
+                const resultData = {
+                    artistQueried: artist,
+                    id: result.id,
+                    name: result.name,
+                    artists: result.artists.map(art => art.name),
+                    album_name: result.album.name,
+                    type: result.album.album_type,
+                    album_cover: result.album.images[0].url,
+                    artistMatch: artistMatch,
+                    isrc: result.external_ids.isrc,
+                    preview: await fetchAppleMusicPreview(cleanTrackName, artist)
+                };
 
-				// If album type is "album", set as finalResult and break
-				if (result.album.album_type === "album") {
-					finalResult = resultData;
-					break;
-				} else if (!fallbackResult) {
-					// If no fallback result has been set yet, set this as the fallback
-					fallbackResult = resultData;
-				}
-			}
+                // If album type is "album", set as finalResult and break
+                if (result.album.album_type === "album") {
+                    finalResult = resultData;
+                    break;
+                } else if (!fallbackResult) {
+                    // If no fallback result has been set yet, set this as the fallback
+                    fallbackResult = resultData;
+                }
+            }
 		}
 
 		if (!finalResult && fallbackResult) {
@@ -242,7 +247,7 @@ async function saveChart(url) {
 			if (match) {
 				// Add square brackets to make it a valid JSON array
 				let ce = '[' + match[1] + ']';
-				// // Add quotes around keys to make array
+				// Add quotes around keys to make array
 				ce = ce.replace(/(\w+):/g, '"$1":');
 				elements = JSON.parse(ce);
 			} else {
@@ -284,7 +289,7 @@ async function saveChart(url) {
 		fs.writeFileSync(latestFilePath, JSON.stringify(chart, null, '\t'));
 		console.log(`New ${chartType} chart data saved successfully.`);
 	} catch (error) {
-		console.error(`Error getting chart data from Billboard:`, error);
+		console.error(`Error getting chart data from Countrytown:`, error);
 	}
 }
 
