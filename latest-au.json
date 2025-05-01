@@ -1,5 +1,5 @@
 {
-	"date": "2025-04-25",
+	"date": "2025-05-02",
 	"entries": [
 		{
 			"name": "I Never Lie",
@@ -60,21 +60,20 @@
 			"weeks_on_chart": 8,
 			"country": "US",
 			"label": "UMG",
-			"image": "https://i.scdn.co/image/ab67616d0000b273047d6b756e8f5e3f8b50f025",
+			"image": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
 			"spotify_data": {
 				"artistQueried": "Sabrina Carpenter",
-				"id": "6nrSo5ZWhsai0oeX257rRF",
-				"name": "Please Please Please (feat. Dolly Parton)",
+				"id": "2tHwzyyOLoWSFqYNjeVMzj",
+				"name": "Please Please Please",
 				"artists": [
-					"Sabrina Carpenter",
-					"Dolly Parton"
+					"Sabrina Carpenter"
 				],
-				"album_name": "Short n' Sweet (Deluxe)",
+				"album_name": "Short n' Sweet",
 				"type": "album",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273047d6b756e8f5e3f8b50f025",
-				"artistMatch": "step2 (album)",
-				"isrc": "USUM72413905",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/3c/47/d23c47c6-6c68-eb2a-3c13-e6ea149b1e77/mzaf_3296197247313341610.plus.aac.p.m4a"
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72404101",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/b2/ad/16b2adb2-1cc0-3547-307b-84094f1b4b8e/mzaf_16384853248657501893.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -111,21 +110,8 @@
 			"weeks_on_chart": 7,
 			"country": "US",
 			"label": "UMG",
-			"image": "https://i.scdn.co/image/ab67616d0000b2735cf183940a142a32c2276fb2",
-			"spotify_data": {
-				"artistQueried": "Tucker Wetmore",
-				"id": "1gJeOuF6VuBy2jZNN8CIOP",
-				"name": "3,2,1",
-				"artists": [
-					"Tucker Wetmore"
-				],
-				"album_name": "What Not To",
-				"type": "album",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b2735cf183940a142a32c2276fb2",
-				"artistMatch": "step1 (album)",
-				"isrc": "USUG12501297",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/5c/74/315c7440-7454-9053-4202-f06c761bcc3c/mzaf_10799313015438872244.plus.aac.p.m4a"
-			}
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
 		},
 		{
 			"name": "The Giver",
@@ -263,18 +249,18 @@
 			"weeks_on_chart": 15,
 			"country": "US",
 			"label": "Ind.",
-			"image": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
+			"image": "https://i.scdn.co/image/ab67616d0000b273945585e3c693da61a5513c58",
 			"spotify_data": {
 				"artistQueried": "Shaboozey",
-				"id": "54p6vNJwGkt4FTaM8SCsxt",
+				"id": "5VHRiH48pBB008CAkrIBwP",
 				"name": "Good News",
 				"artists": [
 					"Shaboozey"
 				],
-				"album_name": "Good News",
-				"type": "single",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273c97e11e794ddcd2c353ea390",
-				"artistMatch": "step1 (single)",
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273945585e3c693da61a5513c58",
+				"artistMatch": "step1 (album)",
 				"isrc": "USUYG1580113",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/68/b3/4468b3ac-e689-9040-44a0-2eb0bd95d091/mzaf_17577048524469785487.plus.aac.p.m4a"
 			}
@@ -363,22 +349,8 @@
 			"weeks_on_chart": 1,
 			"country": "US",
 			"label": "UMG",
-			"image": "https://i.scdn.co/image/ab67616d0000b273fcd90db6eb97508ab08000ae",
-			"spotify_data": {
-				"artistQueried": "Morgan Wallen",
-				"id": "5ceKWhT3J34xxw5uzIzgU9",
-				"name": "I Ain't Comin' Back (feat. Post Malone)",
-				"artists": [
-					"Morgan Wallen",
-					"Post Malone"
-				],
-				"album_name": "I Ain't Comin' Back",
-				"type": "single",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273fcd90db6eb97508ab08000ae",
-				"artistMatch": "step2 (single)",
-				"isrc": "USUG12501623",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/35/e5/c035e50c-7fe1-42c4-43da-2e5eb853bfbb/mzaf_14710061009802502225.plus.aac.p.m4a"
-			}
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
 		},
 		{
 			"name": "Ring On It",
@@ -667,19 +639,19 @@
 			"weeks_on_chart": 1,
 			"country": "US",
 			"label": "Ind/SME*",
-			"image": "https://i.scdn.co/image/ab67616d0000b273d3b3026eafc7def669b0213a",
+			"image": "https://i.scdn.co/image/ab67616d0000b2730de9bb090354aa2cce60f95d",
 			"spotify_data": {
 				"artistQueried": "Shaboozey",
-				"id": "3f3ujFD6YndqRRVYuBcq7T",
+				"id": "5gzvQcZP8XKPq9hTVLyUK4",
 				"name": "Blink Twice",
 				"artists": [
 					"Shaboozey",
 					"Myles Smith"
 				],
-				"album_name": "Blink Twice",
-				"type": "single",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273d3b3026eafc7def669b0213a",
-				"artistMatch": "step1 (single)",
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2730de9bb090354aa2cce60f95d",
+				"artistMatch": "step1 (album)",
 				"isrc": "USUYG1717098",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/59/35/c959354b-1be5-5f27-be02-bb0a93a11e13/mzaf_11551236370610804960.plus.aac.p.m4a"
 			}
@@ -820,21 +792,8 @@
 			"weeks_on_chart": 3,
 			"country": "AU",
 			"label": "Ind.",
-			"image": "https://i.scdn.co/image/ab67616d0000b273e84fe4143b50792ed9eb3c25",
-			"spotify_data": {
-				"artistQueried": "The Buckleys",
-				"id": "7KE0flTkQM2vhTgjuACv28",
-				"name": "See Your Folks Again",
-				"artists": [
-					"The Buckleys"
-				],
-				"album_name": "See Your Folks Again",
-				"type": "single",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273e84fe4143b50792ed9eb3c25",
-				"artistMatch": "step1 (single)",
-				"isrc": "AUMGB2500134",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/b3/02/13b302d9-6d39-3d96-5626-16db6ff0eb5b/mzaf_12829094805748854001.plus.aac.p.m4a"
-			}
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
 		},
 		{
 			"name": "Just In Case",
@@ -1021,7 +980,7 @@
 			"weeks_on_chart": 4,
 			"country": "US",
 			"label": "WMG",
-			"image": "https://i.scdn.co/image/ab67616d0000b273fd5906ea9b9394a58d19579e",
+			"image": "https://i.scdn.co/image/ab67616d0000b2739fa125f25b8a1341ba360eec",
 			"spotify_data": {
 				"artistQueried": "Avery Anna",
 				"id": "4fpf5WsrRHR38hMgqGbqhG",
@@ -1031,7 +990,7 @@
 				],
 				"album_name": "Mr. Predictable",
 				"type": "single",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b273fd5906ea9b9394a58d19579e",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2739fa125f25b8a1341ba360eec",
 				"artistMatch": "step1 (single)",
 				"isrc": "USWB12500125",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/63/86/0c638620-89bc-f9a0-3117-8c983752bc2b/mzaf_901860693649641214.plus.aac.p.m4a"
@@ -1097,21 +1056,8 @@
 			"weeks_on_chart": 30,
 			"country": "US",
 			"label": "Ind.",
-			"image": "https://i.scdn.co/image/ab67616d0000b2734234cc93f111f2f3cd9f3a2f",
-			"spotify_data": {
-				"artistQueried": "Lainey Wilson",
-				"id": "2z865bsdfckaBVck8MSAm8",
-				"name": "4×4×U",
-				"artists": [
-					"Lainey Wilson"
-				],
-				"album_name": "Whirlwind",
-				"type": "album",
-				"album_cover": "https://i.scdn.co/image/ab67616d0000b2734234cc93f111f2f3cd9f3a2f",
-				"artistMatch": "step1 (album)",
-				"isrc": "QMRSZ2400822",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/52/03/2a520362-9217-20be-cb7d-86b77fcae66a/mzaf_9134488578647597937.plus.aac.p.m4a"
-			}
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
 		},
 		{
 			"name": "Kill A Prayer",
