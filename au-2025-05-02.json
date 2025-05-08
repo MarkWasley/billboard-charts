@@ -1,0 +1,1215 @@
+{
+	"date": "2025-05-02",
+	"entries": [
+		{
+			"name": "I Never Lie",
+			"artist": "Zach Top",
+			"rank": 1,
+			"last_week_rank": 1,
+			"peak_rank": 1,
+			"weeks_on_chart": 11,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273e60cfb182df9bf24b4713edd",
+			"spotify_data": {
+				"artistQueried": "Zach Top",
+				"id": "3t6gUcGYLrUuqwpXjOFWQc",
+				"name": "I Never Lie",
+				"artists": [
+					"Zach Top"
+				],
+				"album_name": "Cold Beer & Country Music",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273e60cfb182df9bf24b4713edd",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZWH32400054",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/33/61/253361ce-80cf-455e-c8d6-0fd3cf79327e/mzaf_3341617974044232238.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Not At This Party",
+			"artist": "Dasha",
+			"rank": 2,
+			"last_week_rank": 2,
+			"peak_rank": 2,
+			"weeks_on_chart": 6,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273f98902c4e5c310d00260e6fe",
+			"spotify_data": {
+				"artistQueried": "Dasha",
+				"id": "1moDWPJMHso3c9HogweS9S",
+				"name": "Not At This Party",
+				"artists": [
+					"Dasha"
+				],
+				"album_name": "Not At This Party",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273f98902c4e5c310d00260e6fe",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12500169",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/f2/73/1ef273a8-7c81-1191-8ab4-86bb71c12fad/mzaf_7092758224857045945.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Please Please Please",
+			"artist": "Sabrina Carpenter feat. Dolly Parton",
+			"rank": 3,
+			"last_week_rank": 6,
+			"peak_rank": 3,
+			"weeks_on_chart": 8,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+			"spotify_data": {
+				"artistQueried": "Sabrina Carpenter",
+				"id": "2tHwzyyOLoWSFqYNjeVMzj",
+				"name": "Please Please Please",
+				"artists": [
+					"Sabrina Carpenter"
+				],
+				"album_name": "Short n' Sweet",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72404101",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/b2/ad/16b2adb2-1cc0-3547-307b-84094f1b4b8e/mzaf_16384853248657501893.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "In Case You Missed It",
+			"artist": "Jordan Davis",
+			"rank": 4,
+			"last_week_rank": 4,
+			"peak_rank": 4,
+			"weeks_on_chart": 9,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b27371b530682e8c45a28f5df59a",
+			"spotify_data": {
+				"artistQueried": "Jordan Davis",
+				"id": "38CBst5T62W2HvGfCIG0YZ",
+				"name": "In Case You Missed It",
+				"artists": [
+					"Jordan Davis"
+				],
+				"album_name": "In Case You Missed It",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27371b530682e8c45a28f5df59a",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUM72500150",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/f7/36/b6f73672-4981-954a-eaaf-ea1f5f0308fc/mzaf_3694907493000893454.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "3 2 1",
+			"artist": "Tucker Wetmore",
+			"rank": 5,
+			"last_week_rank": 9,
+			"peak_rank": 5,
+			"weeks_on_chart": 7,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
+		},
+		{
+			"name": "The Giver",
+			"artist": "Chappell Roan",
+			"rank": 6,
+			"last_week_rank": 3,
+			"peak_rank": 3,
+			"weeks_on_chart": 6,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2733f56ecc22a0a63f3e9a80f5f",
+			"spotify_data": {
+				"artistQueried": "Chappell Roan",
+				"id": "5xHgo5JN0wfsV41HnRaos5",
+				"name": "The Giver",
+				"artists": [
+					"Chappell Roan"
+				],
+				"album_name": "The Giver",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2733f56ecc22a0a63f3e9a80f5f",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12501598",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/3e/9b/fe3e9b81-0051-0194-d4cd-870f46df4ae3/mzaf_16834338955258635709.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Country Is Coming To Town",
+			"artist": "Wolfe Brothers  The & Lee Kernaghan",
+			"rank": 7,
+			"last_week_rank": 8,
+			"peak_rank": 7,
+			"weeks_on_chart": 10,
+			"country": "AU",
+			"label": "Ind",
+			"image": "https://i.scdn.co/image/ab67616d0000b273d314b312c2507ed7eb427968",
+			"spotify_data": {
+				"artistQueried": "The Wolfe Brothers",
+				"id": "1Vzthm0II4q351e5rMQ5Jy",
+				"name": "Country Is Coming To Town",
+				"artists": [
+					"The Wolfe Brothers",
+					"Lee Kernaghan"
+				],
+				"album_name": "Country Is Coming To Town",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273d314b312c2507ed7eb427968",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUAB02500001",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/26/46/932646e1-c67c-1b1e-8acc-d11f671ed75c/mzaf_12146472090208459305.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "What Could Go Right",
+			"artist": "Thomas Rhett feat. Lanie Gardner",
+			"rank": 8,
+			"last_week_rank": 46,
+			"peak_rank": 8,
+			"weeks_on_chart": 2,
+			"country": "US",
+			"label": "Ind",
+			"image": "https://i.scdn.co/image/ab67616d0000b273c6418e92fc68e4d2231a4517",
+			"spotify_data": {
+				"artistQueried": "Thomas Rhett",
+				"id": "2iMX5bHSf125ZHBIysZ9na",
+				"name": "What Could Go Right (feat. Lanie Gardner)",
+				"artists": [
+					"Thomas Rhett",
+					"Lanie Gardner"
+				],
+				"album_name": "What Could Go Right (feat. Lanie Gardner)",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273c6418e92fc68e4d2231a4517",
+				"artistMatch": "step2 (single)",
+				"isrc": "QZRD92506830",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/4c/2f/ba4c2f08-3e91-ce23-defa-39b9ea6182f9/mzaf_9442076122704282376.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Solitary Tracks",
+			"artist": "Kip Moore",
+			"rank": 9,
+			"last_week_rank": 13,
+			"peak_rank": 9,
+			"weeks_on_chart": 4,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273a4df171e549f1be75a763a47",
+			"spotify_data": {
+				"artistQueried": "Kip Moore",
+				"id": "3E95KwP7L3CTEC42RS2Mws",
+				"name": "Solitary Tracks",
+				"artists": [
+					"Kip Moore"
+				],
+				"album_name": "Solitary Tracks",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273a4df171e549f1be75a763a47",
+				"artistMatch": "step1 (album)",
+				"isrc": "USA2P2468417",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/f7/1d/8df71dd0-9933-bd6b-69ba-e4d5e0dc1d0f/mzaf_8103631677945748134.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Better Me For You (Brown Eyes)",
+			"artist": "Max McNown",
+			"rank": 10,
+			"last_week_rank": 10,
+			"peak_rank": 2,
+			"weeks_on_chart": 12,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b2730eb26fce888d263b2cdf5614",
+			"spotify_data": {
+				"artistQueried": "Max McNown",
+				"id": "4Iu73sdCNxZXZUIyClMoPZ",
+				"name": "Better Me For You (Brown Eyes)",
+				"artists": [
+					"Max McNown"
+				],
+				"album_name": "Night Diving",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2730eb26fce888d263b2cdf5614",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMGVJ2400200",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/dc/54/95dc5493-8b4b-7ffb-abca-af49915940c8/mzaf_5330396331759720318.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Good News",
+			"artist": "Shaboozey",
+			"rank": 11,
+			"last_week_rank": 7,
+			"peak_rank": 1,
+			"weeks_on_chart": 15,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273945585e3c693da61a5513c58",
+			"spotify_data": {
+				"artistQueried": "Shaboozey",
+				"id": "5VHRiH48pBB008CAkrIBwP",
+				"name": "Good News",
+				"artists": [
+					"Shaboozey"
+				],
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273945585e3c693da61a5513c58",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUYG1580113",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/68/b3/4468b3ac-e689-9040-44a0-2eb0bd95d091/mzaf_17577048524469785487.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "She Hates Me",
+			"artist": "Dierks Bentley",
+			"rank": 12,
+			"last_week_rank": 11,
+			"peak_rank": 11,
+			"weeks_on_chart": 6,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2736107ce4db38b96936d8c65c0",
+			"spotify_data": {
+				"artistQueried": "Dierks Bentley",
+				"id": "1WC0EjP2RnxCeKAQ1STsSM",
+				"name": "She Hates Me",
+				"artists": [
+					"Dierks Bentley"
+				],
+				"album_name": "She Hates Me",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2736107ce4db38b96936d8c65c0",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12500660",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/c7/2d/bac72d96-3b92-d571-bd03-5245f781ffa5/mzaf_12928479462063278934.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I'm The Problem",
+			"artist": "Morgan Wallen",
+			"rank": 13,
+			"last_week_rank": 5,
+			"peak_rank": 3,
+			"weeks_on_chart": 10,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b27392930c2636726e65410f571a",
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "3HlWVKwU0JqJXqJK9DWHnZ",
+				"name": "I'm The Problem",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I'm The Problem",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27392930c2636726e65410f571a",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12500975",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/6f/04/c66f0419-1b3d-b144-2eaa-adbd577d0db3/mzaf_8755991622349295879.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Texas",
+			"artist": "Blake Shelton",
+			"rank": 14,
+			"last_week_rank": 15,
+			"peak_rank": 3,
+			"weeks_on_chart": 20,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273c8e25f5768b8ab88ad3dc675",
+			"spotify_data": {
+				"artistQueried": "Blake Shelton",
+				"id": "3yU9fLsuDYjzVyZW2FLUqY",
+				"name": "Texas",
+				"artists": [
+					"Blake Shelton"
+				],
+				"album_name": "Texas",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273c8e25f5768b8ab88ad3dc675",
+				"artistMatch": "step1 (single)",
+				"isrc": "QMRSZ2401879",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7c/28/567c2836-d375-e42f-11d7-3de522b395ee/mzaf_1570798982557853705.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I Ain't Coming Back",
+			"artist": "Morgan Wallen feat. Post Malone",
+			"rank": 15,
+			"last_week_rank": null,
+			"peak_rank": 15,
+			"weeks_on_chart": 1,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
+		},
+		{
+			"name": "Ring On It",
+			"artist": "Kaylee Bell",
+			"rank": 16,
+			"last_week_rank": 49,
+			"peak_rank": 16,
+			"weeks_on_chart": 2,
+			"country": "NZ",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273c1f6fc9b6d8ac018a1053386",
+			"spotify_data": {
+				"artistQueried": "Kaylee Bell",
+				"id": "6jsILzXZH4g0bIT56ophdx",
+				"name": "Ring On It",
+				"artists": [
+					"Kaylee Bell"
+				],
+				"album_name": "Ring On It",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273c1f6fc9b6d8ac018a1053386",
+				"artistMatch": "step1 (single)",
+				"isrc": "QM4TX2599409",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/a8/aa/a2a8aa41-7ae7-1326-0432-9ffb446008ed/mzaf_15499725779384638716.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Indigo",
+			"artist": "Sam Barber feat. Avery Anna",
+			"rank": 17,
+			"last_week_rank": 32,
+			"peak_rank": 12,
+			"weeks_on_chart": 13,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273c944a2c490ed24e29eef5119",
+			"spotify_data": {
+				"artistQueried": "Sam Barber",
+				"id": "1KZG1H1OCugGqIRmk1wF9m",
+				"name": "Indigo (feat. Avery Anna)",
+				"artists": [
+					"Sam Barber",
+					"Avery Anna"
+				],
+				"album_name": "Restless Mind",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273c944a2c490ed24e29eef5119",
+				"artistMatch": "step2 (album)",
+				"isrc": "USAT22409405",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/e1/a2/bbe1a299-d88b-3860-b4a4-1ae2a3d55a04/mzaf_4031822899361415704.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Honkytonk Hollywood",
+			"artist": "Jon Pardi",
+			"rank": 18,
+			"last_week_rank": 14,
+			"peak_rank": 3,
+			"weeks_on_chart": 12,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273fdbc4e5af05e61ed2a7de2b3",
+			"spotify_data": {
+				"artistQueried": "Jon Pardi",
+				"id": "273RbzaGzdWcuprs9dTJzQ",
+				"name": "Honkytonk Hollywood",
+				"artists": [
+					"Jon Pardi"
+				],
+				"album_name": "Honkytonk Hollywood",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273fdbc4e5af05e61ed2a7de2b3",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72412148",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/6f/f0/b26ff02b-dc45-bfe5-d070-9b55f59f7a87/mzaf_6525632764554963350.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Hands Of Time",
+			"artist": "Eric Church",
+			"rank": 19,
+			"last_week_rank": 33,
+			"peak_rank": 19,
+			"weeks_on_chart": 2,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273073d24cbd66b4099eb9d6e1e",
+			"spotify_data": {
+				"artistQueried": "Eric Church",
+				"id": "2XZobkFLKJKBaH9yKpAB2B",
+				"name": "Hands Of Time",
+				"artists": [
+					"Eric Church"
+				],
+				"album_name": "Hands Of Time",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273073d24cbd66b4099eb9d6e1e",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12501188",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/5d/62/535d62e3-ddc7-d98d-977c-108415e3800a/mzaf_15371474299918212938.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Blue Jean Baby",
+			"artist": "Zach Bryan",
+			"rank": 20,
+			"last_week_rank": 43,
+			"peak_rank": 20,
+			"weeks_on_chart": 9,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2738e6c84f52da789907842e50f",
+			"spotify_data": {
+				"artistQueried": "Zach Bryan",
+				"id": "3yDi4w5cuQQEpQXrozMW2B",
+				"name": "Blue Jean Baby",
+				"artists": [
+					"Zach Bryan"
+				],
+				"album_name": "Blue Jean Baby",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2738e6c84f52da789907842e50f",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12500171",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/3d/4f/3c3d4f77-985e-40dd-2dab-688b43bb4ea8/mzaf_12928812643325047641.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Mr. Mistake",
+			"artist": "Amy Sheppard",
+			"rank": 21,
+			"last_week_rank": 16,
+			"peak_rank": 15,
+			"weeks_on_chart": 8,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273ff69d2acd584059c71f91b6a",
+			"spotify_data": {
+				"artistQueried": "Amy Sheppard",
+				"id": "2pi5JGiwHUu5SgtEFNyeVj",
+				"name": "Mr. Mistake",
+				"artists": [
+					"Amy Sheppard"
+				],
+				"album_name": "Mr. Mistake",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273ff69d2acd584059c71f91b6a",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUIYA2400022",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/1f/6e/891f6e15-0aa4-6a24-d83b-183cf8402942/mzaf_17937622422552912053.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Take Me Back To Texas",
+			"artist": "Shea Fisher",
+			"rank": 22,
+			"last_week_rank": 40,
+			"peak_rank": 22,
+			"weeks_on_chart": 2,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b27308b699892841ad94621bdb67",
+			"spotify_data": {
+				"artistQueried": "Shea Fisher",
+				"id": "4lF757XYqeAcXYt3pPqOkr",
+				"name": "Take Me Back to Texas",
+				"artists": [
+					"Shea Fisher"
+				],
+				"album_name": "Take Me Back to Texas",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27308b699892841ad94621bdb67",
+				"artistMatch": "step1 (single)",
+				"isrc": "TCAJE2539516",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/c6/2c/04c62c13-261b-6fd1-579e-073e7c7504a9/mzaf_6568284535612792709.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Dozen Red Flags",
+			"artist": "Mackenzie Carpenter",
+			"rank": 23,
+			"last_week_rank": 18,
+			"peak_rank": 7,
+			"weeks_on_chart": 11,
+			"country": "US",
+			"label": "Ind",
+			"image": "https://i.scdn.co/image/ab67616d0000b273573ec9e6af4ad9ece4e40985",
+			"spotify_data": {
+				"artistQueried": "Mackenzie Carpenter",
+				"id": "3dt5MP4n0BdN2mlv3a8Yua",
+				"name": "Dozen Red Flags",
+				"artists": [
+					"Mackenzie Carpenter"
+				],
+				"album_name": "Hey Country Queen",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273573ec9e6af4ad9ece4e40985",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZRD92406448",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/fa/d1/98fad167-eeef-00ef-a713-c6bfa5403a59/mzaf_4883365666022387481.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Medusa",
+			"artist": "Cameron Whitcomb",
+			"rank": 24,
+			"last_week_rank": 29,
+			"peak_rank": 24,
+			"weeks_on_chart": 10,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273ce2c39d340740fa4e030e3c5",
+			"spotify_data": {
+				"artistQueried": "Cameron Whitcomb",
+				"id": "1B7xiLBhKRBpD5KlnEWtrR",
+				"name": "Medusa",
+				"artists": [
+					"Cameron Whitcomb"
+				],
+				"album_name": "Medusa",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273ce2c39d340740fa4e030e3c5",
+				"artistMatch": "step1 (single)",
+				"isrc": "USAT22409827",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/41/41/81414166-3ad4-51b4-5b63-25540bea2387/mzaf_18129724148833954234.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Ain't No Love in Oklahoma",
+			"artist": "Luke Combs",
+			"rank": 25,
+			"last_week_rank": 27,
+			"peak_rank": 1,
+			"weeks_on_chart": 47,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b2738021cab8fad7700fdaaf86d8",
+			"spotify_data": {
+				"artistQueried": "Luke Combs",
+				"id": "54lwAukbN9gFGnDprkHjRD",
+				"name": "Ain't No Love In Oklahoma",
+				"artists": [
+					"Luke Combs"
+				],
+				"album_name": "Twisters: The Album",
+				"type": "compilation",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2738021cab8fad7700fdaaf86d8",
+				"artistMatch": "step1 (single)",
+				"isrc": "USAT22403491",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/a7/f5/86a7f5ff-d213-b0f4-4768-e1e093725bce/mzaf_10686644990820030767.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Happy Ever After You",
+			"artist": "Thelma & James",
+			"rank": 26,
+			"last_week_rank": 21,
+			"peak_rank": 17,
+			"weeks_on_chart": 8,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273f3075accc67ead8c0a8efd00",
+			"spotify_data": {
+				"artistQueried": "",
+				"id": "4TW2iaLFzZrLMST78bvv4i",
+				"name": "Happy Ever After You",
+				"artists": [
+					"MacKenzie Porter",
+					"Jake Etheridge",
+					"Thelma & James"
+				],
+				"album_name": "Happy Ever After You",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273f3075accc67ead8c0a8efd00",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12406581",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f3/9b/c6/f39bc6d7-5481-75bc-c207-0810507dfa92/mzaf_9447414821517136376.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Blink Twice",
+			"artist": "Shaboozey & Myles Smith",
+			"rank": 27,
+			"last_week_rank": 61,
+			"peak_rank": 27,
+			"weeks_on_chart": 1,
+			"country": "US",
+			"label": "Ind/SME*",
+			"image": "https://i.scdn.co/image/ab67616d0000b2730de9bb090354aa2cce60f95d",
+			"spotify_data": {
+				"artistQueried": "Shaboozey",
+				"id": "5gzvQcZP8XKPq9hTVLyUK4",
+				"name": "Blink Twice",
+				"artists": [
+					"Shaboozey",
+					"Myles Smith"
+				],
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2730de9bb090354aa2cce60f95d",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUYG1717098",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/59/35/c959354b-1be5-5f27-be02-bb0a93a11e13/mzaf_11551236370610804960.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Amen For The Weekend",
+			"artist": "Lane Pittman",
+			"rank": 28,
+			"last_week_rank": 28,
+			"peak_rank": 1,
+			"weeks_on_chart": 22,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b2732a341bc2e2129a345de3173c",
+			"spotify_data": {
+				"artistQueried": "Lane Pittman",
+				"id": "6n95Js3BFd0ZRtggQTxS00",
+				"name": "Amen For The Weekend",
+				"artists": [
+					"Lane Pittman"
+				],
+				"album_name": "Amen For The Weekend",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2732a341bc2e2129a345de3173c",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUCZC2400045",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/22/99/9f229976-7518-1660-5441-04956026ce4d/mzaf_11556309536822015479.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "GRASS",
+			"artist": "Max Jackson",
+			"rank": 29,
+			"last_week_rank": 30,
+			"peak_rank": 29,
+			"weeks_on_chart": 2,
+			"country": "AU",
+			"label": "Ind",
+			"image": "https://i.scdn.co/image/ab67616d0000b2739b80cbd7643e2dbd9c8b4f0d",
+			"spotify_data": {
+				"artistQueried": "Max Jackson",
+				"id": "6Li9XKO5K5yck82uEJp20p",
+				"name": "GRASS",
+				"artists": [
+					"Max Jackson"
+				],
+				"album_name": "GRASS",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2739b80cbd7643e2dbd9c8b4f0d",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUAB02500025",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/13/83/71138333-d681-c956-5108-dd5fc29f2ede/mzaf_18157060297815039220.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Somethin' 'Bout A Woman",
+			"artist": "Thomas Rhett feat. Teddy Swims",
+			"rank": 30,
+			"last_week_rank": 12,
+			"peak_rank": 2,
+			"weeks_on_chart": 21,
+			"country": "US",
+			"label": "Ind",
+			"image": "https://i.scdn.co/image/ab67616d0000b273244573f2233b7baae7ac9e48",
+			"spotify_data": {
+				"artistQueried": "Thomas Rhett",
+				"id": "1dHUB7GIbSk3MdL6a6KGvc",
+				"name": "Somethin’ ‘Bout A Woman (feat. Teddy Swims)",
+				"artists": [
+					"Thomas Rhett",
+					"Teddy Swims"
+				],
+				"album_name": "Somethin’ ‘Bout A Woman (feat. Teddy Swims)",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273244573f2233b7baae7ac9e48",
+				"artistMatch": "step2 (single)",
+				"isrc": "QZRD92406327",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/22/7a/28227a16-0088-d207-ca7f-5283b1167b6c/mzaf_8629801315162800814.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "you look like you love me",
+			"artist": "Ella Langley & Riley Green",
+			"rank": 31,
+			"last_week_rank": 20,
+			"peak_rank": 1,
+			"weeks_on_chart": 41,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b273eaee4abfeec0ece8236d293b",
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "2PyJAiQjp1OPkow2FJZKHR",
+				"name": "you look like you love me (feat. Riley Green)",
+				"artists": [
+					"Ella Langley",
+					"Riley Green"
+				],
+				"album_name": "hungover",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273eaee4abfeec0ece8236d293b",
+				"artistMatch": "step2 (album)",
+				"isrc": "USSM12401853",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/f9/a6/6bf9a6ff-6293-1f0f-b5e1-add97d668f1c/mzaf_13058955996297446518.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Fix What You Didn't Break",
+			"artist": "Nate Smith",
+			"rank": 32,
+			"last_week_rank": 24,
+			"peak_rank": 11,
+			"weeks_on_chart": 25,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1",
+			"spotify_data": {
+				"artistQueried": "Nate Smith",
+				"id": "493xja7E57qje1iR0Pwj5K",
+				"name": "Fix What You Didn't Break",
+				"artists": [
+					"Nate Smith"
+				],
+				"album_name": "California Gold",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27317240d108cc177450f8558c1",
+				"artistMatch": "step1 (album)",
+				"isrc": "USRN12400011",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/eb/ed/bbebed49-0fdd-a97d-a01b-54a4154230ca/mzaf_1008943900136169970.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "See Your Folks Again",
+			"artist": "Buckleys  The",
+			"rank": 33,
+			"last_week_rank": 23,
+			"peak_rank": 23,
+			"weeks_on_chart": 3,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
+		},
+		{
+			"name": "Just In Case",
+			"artist": "Morgan Wallen",
+			"rank": 34,
+			"last_week_rank": 44,
+			"peak_rank": 34,
+			"weeks_on_chart": 4,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273e69f7f1c43cebd102126e8f3",
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "02Ya2Q08bBKFqUJvjmyRXK",
+				"name": "Just In Case",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "Just In Case",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273e69f7f1c43cebd102126e8f3",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12501602",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/f5/7d/fcf57d86-9ffc-4a8a-0b44-08770e96e149/mzaf_8195558198754627983.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Forever Hold Your Gun",
+			"artist": "Y.O.G.A. feat. Sara Berki",
+			"rank": 35,
+			"last_week_rank": 22,
+			"peak_rank": 22,
+			"weeks_on_chart": 3,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b2738ded895b909034570aea6c0c",
+			"spotify_data": {
+				"artistQueried": "Y.O.G.A.",
+				"id": "0W9QyjMi6GTqwjP35j5PX7",
+				"name": "Forever Hold Your Gun",
+				"artists": [
+					"Y.O.G.A.",
+					"Sara Berki"
+				],
+				"album_name": "Forever Hold Your Gun",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2738ded895b909034570aea6c0c",
+				"artistMatch": "step1 (single)",
+				"isrc": "GX3Q92547138",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/a2/e2/e9a2e2ff-75e6-6f50-563f-34a51e34dc5c/mzaf_6124244895632503018.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Always Gonna Be",
+			"artist": "Karli June",
+			"rank": 36,
+			"last_week_rank": 35,
+			"peak_rank": 18,
+			"weeks_on_chart": 6,
+			"country": "CA",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273a1fa168c6aa9f7fca01905ab",
+			"spotify_data": {
+				"artistQueried": "Karli June",
+				"id": "4nAInEc0V3n1fEx8Nr9Dap",
+				"name": "Always Gonna Be",
+				"artists": [
+					"Karli June"
+				],
+				"album_name": "Always Gonna Be",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273a1fa168c6aa9f7fca01905ab",
+				"artistMatch": "step1 (single)",
+				"isrc": "CANBU2400002",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/9b/89/a09b892d-24c4-89fc-3433-0dfe511ddfbd/mzaf_17871252172791917016.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Backseat Driver",
+			"artist": "Kane Brown",
+			"rank": 37,
+			"last_week_rank": 51,
+			"peak_rank": 5,
+			"weeks_on_chart": 26,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b273ffe127ba1031045a1356e5c1",
+			"spotify_data": {
+				"artistQueried": "Kane Brown",
+				"id": "503M7xJjwoLZZIshZQAzqF",
+				"name": "Backseat Driver",
+				"artists": [
+					"Kane Brown"
+				],
+				"album_name": "The High Road",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273ffe127ba1031045a1356e5c1",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZZVQ2400170",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/24/69/20246905-64ed-bdce-099a-5edb3db008b8/mzaf_7748626299913537915.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Life For Me",
+			"artist": "Jess Moskaluke",
+			"rank": 38,
+			"last_week_rank": 17,
+			"peak_rank": 3,
+			"weeks_on_chart": 11,
+			"country": "CA",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2730e441b447e198eb92fe0a0c1",
+			"spotify_data": {
+				"artistQueried": "Jess Moskaluke",
+				"id": "0vBJ0WIXHhLsQccXH21AwN",
+				"name": "Life For Me",
+				"artists": [
+					"Jess Moskaluke"
+				],
+				"album_name": "Life For Me",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2730e441b447e198eb92fe0a0c1",
+				"artistMatch": "step1 (single)",
+				"isrc": "CA74P2400009",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/19/92/ed199239-99ac-dda5-1595-2c7541f1f2c2/mzaf_16679153485530890861.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Bigger Things",
+			"artist": "Nathan Lamont",
+			"rank": 39,
+			"last_week_rank": 54,
+			"peak_rank": 39,
+			"weeks_on_chart": 2,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b27345a1eb8fb7dcb6dcc287b7bc",
+			"spotify_data": {
+				"artistQueried": "Nathan Lamont",
+				"id": "6kOEXPHnlOd93UrDfBgceB",
+				"name": "Bigger Things",
+				"artists": [
+					"Nathan Lamont"
+				],
+				"album_name": "Bigger Things",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27345a1eb8fb7dcb6dcc287b7bc",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUQ9D2407078",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/a9/e6/3fa9e6dc-2daf-ecee-697f-14276c4ca679/mzaf_7344020894805464149.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Good Luck",
+			"artist": "Rachael Fahim",
+			"rank": 40,
+			"last_week_rank": 26,
+			"peak_rank": 11,
+			"weeks_on_chart": 12,
+			"country": "AU",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2738f377cddb806fc066f67247c",
+			"spotify_data": {
+				"artistQueried": "Rachael Fahim",
+				"id": "69Bss95RLsfXxGs4xeLRVk",
+				"name": "Good Luck",
+				"artists": [
+					"Rachael Fahim"
+				],
+				"album_name": "Good Luck",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2738f377cddb806fc066f67247c",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUUM72400456",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/cd/9d/93cd9d90-9318-6e26-a402-731c0e424fe5/mzaf_14047458214575179009.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Mr. Predictable",
+			"artist": "Avery Anna",
+			"rank": 41,
+			"last_week_rank": 36,
+			"peak_rank": 36,
+			"weeks_on_chart": 4,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b2739fa125f25b8a1341ba360eec",
+			"spotify_data": {
+				"artistQueried": "Avery Anna",
+				"id": "4fpf5WsrRHR38hMgqGbqhG",
+				"name": "Mr. Predictable",
+				"artists": [
+					"Avery Anna"
+				],
+				"album_name": "Mr. Predictable",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2739fa125f25b8a1341ba360eec",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12500125",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/63/86/0c638620-89bc-f9a0-3117-8c983752bc2b/mzaf_901860693649641214.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Pour Me A Drink",
+			"artist": "Post Malone feat. Blake Shelton",
+			"rank": 42,
+			"last_week_rank": 48,
+			"peak_rank": 6,
+			"weeks_on_chart": 23,
+			"country": "US",
+			"label": "UMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
+			"spotify_data": {
+				"artistQueried": "Post Malone",
+				"id": "0mNzElhEofvgMWAJoOA4q9",
+				"name": "Pour Me A Drink (Feat. Blake Shelton)",
+				"artists": [
+					"Post Malone",
+					"Blake Shelton"
+				],
+				"album_name": "F-1 Trillion",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
+				"artistMatch": "step2 (album)",
+				"isrc": "USUM72405604",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/8d/f8/568df82c-805a-3713-86c8-72e81515da29/mzaf_13667300295033100855.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Run",
+			"artist": "Miranda Lambert",
+			"rank": 43,
+			"last_week_rank": 109,
+			"peak_rank": 43,
+			"weeks_on_chart": 1,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273b7010f2e7e715bf4c8422f3f",
+			"spotify_data": {
+				"artistQueried": "Miranda Lambert",
+				"id": "6zUbSReLqmTpjbX6GqdOkP",
+				"name": "Run",
+				"artists": [
+					"Miranda Lambert"
+				],
+				"album_name": "Postcards From Texas",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273b7010f2e7e715bf4c8422f3f",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12404015",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/4d/60/ed4d603e-ff88-211b-eba2-845e085d537a/mzaf_16658279591657227605.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "4x4xU",
+			"artist": "Lainey Wilson",
+			"rank": 44,
+			"last_week_rank": 37,
+			"peak_rank": 1,
+			"weeks_on_chart": 30,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://pbs.twimg.com/profile_images/1301033714529394693/SsLzg2DQ_400x400.jpg",
+			"spotify_data": null
+		},
+		{
+			"name": "Kill A Prayer",
+			"artist": "Cole Swindell",
+			"rank": 45,
+			"last_week_rank": 34,
+			"peak_rank": 28,
+			"weeks_on_chart": 9,
+			"country": "US",
+			"label": "WMG",
+			"image": "https://i.scdn.co/image/ab67616d0000b273563e232e6fde766b94cd119b",
+			"spotify_data": {
+				"artistQueried": "Cole Swindell",
+				"id": "6mFrsOwzg8ieFWqOZzLmgA",
+				"name": "Kill A Prayer",
+				"artists": [
+					"Cole Swindell"
+				],
+				"album_name": "Kill A Prayer",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273563e232e6fde766b94cd119b",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12500017",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/34/fc/4934fc86-14c0-1e48-ea3b-55a55f2ec999/mzaf_17361412625643874190.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "High Road",
+			"artist": "Koe Wetzel & Jessie Murph",
+			"rank": 46,
+			"last_week_rank": 64,
+			"peak_rank": 18,
+			"weeks_on_chart": 20,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b2732473eb4c478e423131e545b0",
+			"spotify_data": {
+				"artistQueried": "Koe Wetzel",
+				"id": "1FhgmMvNlh3nJ1Ldc2eE6H",
+				"name": "High Road (feat. Jessie Murph)",
+				"artists": [
+					"Koe Wetzel",
+					"Jessie Murph"
+				],
+				"album_name": "9 Lives",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2732473eb4c478e423131e545b0",
+				"artistMatch": "step2 (album)",
+				"isrc": "USQX92401733",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/10/39/411039f2-1566-5f71-bb70-46226d6ca1ba/mzaf_13674378675135211300.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Let's Get Lost",
+			"artist": "Lane Pittman",
+			"rank": 47,
+			"last_week_rank": 74,
+			"peak_rank": 7,
+			"weeks_on_chart": 16,
+			"country": "AU",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b2736913e0b97178e143675e1926",
+			"spotify_data": {
+				"artistQueried": "Lane Pittman",
+				"id": "0JT5EMlK5LsbqzgLo8zSfM",
+				"name": "Let's Get Lost",
+				"artists": [
+					"Lane Pittman"
+				],
+				"album_name": "Lane Pittman",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b2736913e0b97178e143675e1926",
+				"artistMatch": "step1 (single)",
+				"isrc": "AUCZC2300019",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/82/bd/a8/82bda82e-236e-6cfa-dd6e-d8195b08f5d1/mzaf_6008243813081389078.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Miles On It",
+			"artist": "Marshmello & Kane Brown",
+			"rank": 48,
+			"last_week_rank": 39,
+			"peak_rank": 8,
+			"weeks_on_chart": 40,
+			"country": "US",
+			"label": "SME",
+			"image": "https://i.scdn.co/image/ab67616d0000b273ffe127ba1031045a1356e5c1",
+			"spotify_data": {
+				"artistQueried": "Marshmello",
+				"id": "1KA3w5NErqdrAkW1E02LtF",
+				"name": "Miles On It",
+				"artists": [
+					"Marshmello",
+					"Kane Brown"
+				],
+				"album_name": "The High Road",
+				"type": "album",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273ffe127ba1031045a1356e5c1",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZZVQ2400059",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/e0/c7/71e0c7d0-2123-77bd-2322-e9a8d11333e5/mzaf_12415459325798775890.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Happen To Me",
+			"artist": "Russell Dickerson",
+			"rank": 49,
+			"last_week_rank": 41,
+			"peak_rank": 37,
+			"weeks_on_chart": 3,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b27308b0ee5f7a928a085485595d",
+			"spotify_data": {
+				"artistQueried": "Russell Dickerson",
+				"id": "64KV9vjChfN2w9vA4j7A2K",
+				"name": "Happen To Me",
+				"artists": [
+					"Russell Dickerson"
+				],
+				"album_name": "Happen To Me",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b27308b0ee5f7a928a085485595d",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92500375",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/67/5c/a7675c35-a8a5-9658-0441-3fc2f300f0e7/mzaf_6584394530631984544.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Cry",
+			"artist": "Lee Brice",
+			"rank": 50,
+			"last_week_rank": 67,
+			"peak_rank": 43,
+			"weeks_on_chart": 4,
+			"country": "US",
+			"label": "Ind.",
+			"image": "https://i.scdn.co/image/ab67616d0000b273e4bb1a41efa7e6578d5ebb61",
+			"spotify_data": {
+				"artistQueried": "Lee Brice",
+				"id": "7ptWyLiZFt1M21sq3gsbVY",
+				"name": "Cry",
+				"artists": [
+					"Lee Brice"
+				],
+				"album_name": "Cry",
+				"type": "single",
+				"album_cover": "https://i.scdn.co/image/ab67616d0000b273e4bb1a41efa7e6578d5ebb61",
+				"artistMatch": "step1 (single)",
+				"isrc": "USCRB2400247",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/a5/20/dfa52076-02c5-528d-c693-2a66e3a778e2/mzaf_6626797495009949190.plus.aac.p.m4a"
+			}
+		}
+	]
+}
