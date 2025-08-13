@@ -1,0 +1,1077 @@
+{
+	"date": "2025-08-09",
+	"entries": [
+		{
+			"name": "What I Want",
+			"artist": "Morgan Wallen Featuring Tate McRae",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 1,
+			"last_week_rank": 1,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "48NthgcgfoRrWT8LtgW28A",
+				"name": "What I Want (feat. Tate McRae)",
+				"artists": [
+					"Morgan Wallen",
+					"Tate McRae"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step2 (album)",
+				"isrc": "USUG12501601",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/26/41/f72641cd-0db0-04a9-b460-1d487b70546c/mzaf_3582422943575748618.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Just In Case",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2025/04/morgan-wallen-eos-justincase-eos-180x180.jpg",
+			"rank": 2,
+			"last_week_rank": 2,
+			"peak_rank": 0,
+			"weeks_on_chart": 19,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "5z0LSDpPpGwc2ZyJHpsE3J",
+				"name": "Just In Case",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501602",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/f5/7d/fcf57d86-9ffc-4a8a-0b44-08770e96e149/mzaf_8195558198754627983.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I'm The Problem",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2025/02/morgan-wallen-eos-imtheproblem-wfr-180x180.jpg",
+			"rank": 3,
+			"last_week_rank": 1,
+			"peak_rank": 0,
+			"weeks_on_chart": 26,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "7AeM1BGYM7emrqmQn1PuWv",
+				"name": "I'm The Problem",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12500975",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/6f/04/c66f0419-1b3d-b144-2eaa-adbd577d0db3/mzaf_8755991622349295879.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Good News",
+			"artist": "Shaboozey",
+			"image": "https://charts-static.billboard.com/img/2024/11/shaboozey-2wm-goodnews-c3j-180x180.jpg",
+			"rank": 4,
+			"last_week_rank": 4,
+			"peak_rank": 0,
+			"weeks_on_chart": 37,
+			"spotify_data": {
+				"artistQueried": "Shaboozey",
+				"id": "5VHRiH48pBB008CAkrIBwP",
+				"name": "Good News",
+				"artists": [
+					"Shaboozey"
+				],
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUYG1580113",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/68/b3/4468b3ac-e689-9040-44a0-2eb0bd95d091/mzaf_17577048524469785487.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Miami",
+			"artist": "Morgan Wallen Featuring Lil Wayne & Rick Ross",
+			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-miami-2oj-180x180.jpg",
+			"rank": 5,
+			"last_week_rank": 5,
+			"peak_rank": 0,
+			"weeks_on_chart": 9,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "4vsarEetbprJa5Z2ZJ4RL7",
+				"name": "Miami (feat. Lil Wayne & Rick Ross)",
+				"artists": [
+					"Morgan Wallen",
+					"Lil Wayne",
+					"Rick Ross"
+				],
+				"album_name": "Miami",
+				"type": "single",
+				"artistMatch": "step2 (single)",
+				"isrc": "USUG12506449",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/4f/a4/064fa42b-8b9e-a59d-83b6-ec579bf5abbb/mzaf_3816250353681043183.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I Got Better",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-igotbetter-8s9-180x180.jpg",
+			"rank": 6,
+			"last_week_rank": 4,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "4gfrYDtaRmp6HPvN80V2ob",
+				"name": "I Got Better",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501599",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/4d/2c/b34d2cb9-e149-695b-3157-b94f3b177497/mzaf_1011905574215658543.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "All The Way",
+			"artist": "BigXthaPlug Featuring Bailey Zimmerman",
+			"image": "https://charts-static.billboard.com/img/2025/04/bigxthaplug-b0q-alltheway-z2y-180x180.jpg",
+			"rank": 7,
+			"last_week_rank": 1,
+			"peak_rank": 0,
+			"weeks_on_chart": 17,
+			"spotify_data": {
+				"artistQueried": "BigXthaPlug",
+				"id": "73kIKvg65QWieOKXIwyLJP",
+				"name": "All The Way (feat. Bailey Zimmerman)",
+				"artists": [
+					"BigXthaPlug",
+					"Bailey Zimmerman"
+				],
+				"album_name": "All The Way (feat. Bailey Zimmerman)",
+				"type": "single",
+				"artistMatch": "step2 (single)",
+				"isrc": "QZLL92584883",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4b/73/0f/4b730f8f-e874-7c98-a943-7e98f801f9ab/mzaf_5074880947723528718.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Backup Plan",
+			"artist": "Bailey Zimmerman & Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2025/05/baileyzimmerman-qt3-backupplan-4g8-180x180.jpg",
+			"rank": 8,
+			"last_week_rank": 7,
+			"peak_rank": 0,
+			"weeks_on_chart": 13,
+			"spotify_data": {
+				"artistQueried": "Bailey Zimmerman",
+				"id": "58is1MxJ0mafkdwalyYanU",
+				"name": "Backup Plan (feat. Luke Combs)",
+				"artists": [
+					"Bailey Zimmerman",
+					"Luke Combs"
+				],
+				"album_name": "Backup Plan (feat. Luke Combs)",
+				"type": "single",
+				"artistMatch": "step2 (single)",
+				"isrc": "USWB12501314",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/25/44/6b/25446ba8-53de-0718-a468-ebad141d9c96/mzaf_993374088846195972.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Back In The Saddle",
+			"artist": "Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2025/08/luke-combs-vjy-backinthesaddle-8bn-180x180.jpg",
+			"rank": 9,
+			"last_week_rank": 9,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Luke Combs",
+				"id": "6tlZIGGXozhQpYyKesjwWL",
+				"name": "Back in the Saddle",
+				"artists": [
+					"Luke Combs"
+				],
+				"album_name": "Back in the Saddle",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "US6XF2500094",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/aa/fb/12aafb76-f2e9-8e51-d0f5-03ba0fd5bfe0/mzaf_9351137179869068148.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "After All The Bars Are Closed",
+			"artist": "Thomas Rhett",
+			"image": "https://charts-static.billboard.com/img/2025/02/thomas-rhett-sbw-afterallthebarsareclosed-ib6-180x180.jpg",
+			"rank": 10,
+			"last_week_rank": 10,
+			"peak_rank": 0,
+			"weeks_on_chart": 25,
+			"spotify_data": {
+				"artistQueried": "Thomas Rhett",
+				"id": "5dxCaYXS5l2ZmMGAVGB2lQ",
+				"name": "After All The Bars Are Closed",
+				"artists": [
+					"Thomas Rhett"
+				],
+				"album_name": "About A Woman",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZRD92405271",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/72/b7/a672b7b7-05b9-04ba-52b1-3d4d5831ca51/mzaf_845479015641085217.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Happen To Me",
+			"artist": "Russell Dickerson",
+			"image": "https://charts-static.billboard.com/img/2025/03/russell-dickerson-4oy-happentome-tcj-180x180.jpg",
+			"rank": 11,
+			"last_week_rank": 11,
+			"peak_rank": 0,
+			"weeks_on_chart": 23,
+			"spotify_data": {
+				"artistQueried": "Russell Dickerson",
+				"id": "64KV9vjChfN2w9vA4j7A2K",
+				"name": "Happen To Me",
+				"artists": [
+					"Russell Dickerson"
+				],
+				"album_name": "Happen To Me",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92500375",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/67/5c/a7675c35-a8a5-9658-0441-3fc2f300f0e7/mzaf_6584394530631984544.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "20 Cigarettes",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 12,
+			"last_week_rank": 8,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "0YsIYFRoxkmEvbKCwTp0Tg",
+				"name": "20 Cigarettes",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501608",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/34/c7/fe34c7fe-317e-bd09-e9c1-7f2677fc3893/mzaf_4776627994818884465.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "6 Months Later",
+			"artist": "Megan Moroney",
+			"image": "https://charts-static.billboard.com/img/2025/07/meganmoroney-1wq-6monthslater-74i-180x180.jpg",
+			"rank": 13,
+			"last_week_rank": 9,
+			"peak_rank": 0,
+			"weeks_on_chart": 6,
+			"spotify_data": {
+				"artistQueried": "Megan Moroney",
+				"id": "4Km9FSF9iaQiTLnFPdbPom",
+				"name": "6 Months Later",
+				"artists": [
+					"Megan Moroney"
+				],
+				"album_name": "6 Months Later",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92502917",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/91/c7/a391c78e-b390-c510-396f-78817288b1e0/mzaf_13289318795353757158.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I Ain't Coming Back",
+			"artist": "Morgan Wallen Featuring Post Malone",
+			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg",
+			"rank": 14,
+			"last_week_rank": 3,
+			"peak_rank": 0,
+			"weeks_on_chart": 15,
+			"spotify_data": null
+		},
+		{
+			"name": "Better Me For You (Brown Eyes)",
+			"artist": "Max McNown",
+			"image": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg",
+			"rank": 15,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 18,
+			"spotify_data": {
+				"artistQueried": "Max McNown",
+				"id": "4Iu73sdCNxZXZUIyClMoPZ",
+				"name": "Better Me For You (Brown Eyes)",
+				"artists": [
+					"Max McNown"
+				],
+				"album_name": "Night Diving",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMGVJ2400200",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/dc/54/95dc5493-8b4b-7ffb-abca-af49915940c8/mzaf_5330396331759720318.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Bottle Rockets",
+			"artist": "Scotty McCreery & Hootie & the Blowfish",
+			"image": "https://charts-static.billboard.com/img/2025/05/scotty-mccreery-3w0-bottlerockets-fda-180x180.jpg",
+			"rank": 16,
+			"last_week_rank": 16,
+			"peak_rank": 0,
+			"weeks_on_chart": 8,
+			"spotify_data": {
+				"artistQueried": "Scotty McCreery",
+				"id": "5Xl87hTgoBbSnEXKNse77Q",
+				"name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+				"artists": [
+					"Scotty McCreery",
+					"Hootie & The Blowfish"
+				],
+				"album_name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+				"type": "single",
+				"artistMatch": "step2 (single)",
+				"isrc": "USQX92502247",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/cc/31/5ecc3121-a357-7283-a98d-d8ca4b90e328/mzaf_8076015602065768008.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Amen",
+			"artist": "Shaboozey & Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg",
+			"rank": 17,
+			"last_week_rank": 16,
+			"peak_rank": 0,
+			"weeks_on_chart": 14,
+			"spotify_data": {
+				"artistQueried": "Shaboozey",
+				"id": "3anaHXs7z8NwLUatPxqJlE",
+				"name": "Amen",
+				"artists": [
+					"Shaboozey",
+					"Jelly Roll"
+				],
+				"album_name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUYG1717095",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/84/7e/7e847e13-9de8-80a7-d887-9b428ddcb29d/mzaf_785345536673354144.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Fix What You Didn't Break",
+			"artist": "Nate Smith",
+			"image": "https://charts-static.billboard.com/img/2024/09/natesmith-tuf-fixwhatyoudidntbreak-bzm-180x180.jpg",
+			"rank": 18,
+			"last_week_rank": 17,
+			"peak_rank": 0,
+			"weeks_on_chart": 47,
+			"spotify_data": {
+				"artistQueried": "Nate Smith",
+				"id": "493xja7E57qje1iR0Pwj5K",
+				"name": "Fix What You Didn't Break",
+				"artists": [
+					"Nate Smith"
+				],
+				"album_name": "California Gold",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USRN12400011",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/eb/ed/bbebed49-0fdd-a97d-a01b-54a4154230ca/mzaf_1008943900136169970.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "House Again",
+			"artist": "Hudson Westbrook",
+			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-houseagain-zq0-180x180.jpg",
+			"rank": 19,
+			"last_week_rank": 19,
+			"peak_rank": 0,
+			"weeks_on_chart": 39,
+			"spotify_data": {
+				"artistQueried": "Hudson Westbrook",
+				"id": "1zM8S2pnIclcdTmrfFnWtX",
+				"name": "House Again",
+				"artists": [
+					"Hudson Westbrook"
+				],
+				"album_name": "Texas Forever",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZYG82300092",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/4c/21/324c21b1-1b25-7b5a-a45e-bbc2771c7842/mzaf_10912315381854147105.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Superman",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-superman-pah-180x180.jpg",
+			"rank": 20,
+			"last_week_rank": 5,
+			"peak_rank": 0,
+			"weeks_on_chart": 12,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "3KC1yCIfkLrRaeeMUEKvg3",
+				"name": "Superman",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501600",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/f9/09/d3f909c4-f9f7-e92f-31dc-3a42788a35f7/mzaf_4090282009597517169.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "TN",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 21,
+			"last_week_rank": 13,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "5wrvpATTwLAdxI9xNtezNM",
+				"name": "TN",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501609",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/fe/d2/fffed2e1-b5e7-9139-f236-f2ce00b675ea/mzaf_14419544694034014268.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Hard Fought Hallelujah",
+			"artist": "Brandon Lake X Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2024/11/brandonlake-j1t-hardfoughthallelujah-bn9-180x180.jpg",
+			"rank": 22,
+			"last_week_rank": 12,
+			"peak_rank": 0,
+			"weeks_on_chart": 14,
+			"spotify_data": null
+		},
+		{
+			"name": "Bar None",
+			"artist": "Jordan Davis",
+			"image": "https://charts-static.billboard.com/img/2025/04/jordan-davis-wxd-barnone-djc-180x180.jpg",
+			"rank": 23,
+			"last_week_rank": 23,
+			"peak_rank": 0,
+			"weeks_on_chart": 15,
+			"spotify_data": {
+				"artistQueried": "Jordan Davis",
+				"id": "212xtcXoSqbbwFAYd0zvNP",
+				"name": "Bar None",
+				"artists": [
+					"Jordan Davis"
+				],
+				"album_name": "Bar None",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUM72501597",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/50/21/8c502110-6f51-12d4-9535-d8c6ed6d5f62/mzaf_17013041550340888927.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Park",
+			"artist": "Tyler Hubbard",
+			"image": "https://charts-static.billboard.com/img/2024/08/tylerhubbard-ne7-park-jfn-180x180.jpg",
+			"rank": 24,
+			"last_week_rank": 24,
+			"peak_rank": 0,
+			"weeks_on_chart": 7,
+			"spotify_data": {
+				"artistQueried": "Tyler Hubbard",
+				"id": "119cU5gffLzRlsEGSshPNQ",
+				"name": "Park",
+				"artists": [
+					"Tyler Hubbard"
+				],
+				"album_name": "Strong",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12309787",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/50/59/595059ff-c2d7-d894-e306-fbdedae1b60b/mzaf_17957598699738011417.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Somewhere Over Laredo",
+			"artist": "Lainey Wilson",
+			"image": "https://charts-static.billboard.com/img/2025/05/lainey-wilson-wci-somewhereoverlaredo-3ei-180x180.jpg",
+			"rank": 25,
+			"last_week_rank": 25,
+			"peak_rank": 0,
+			"weeks_on_chart": 8,
+			"spotify_data": {
+				"artistQueried": "Lainey Wilson",
+				"id": "0aGIy8kll4HYDnNTDlf2vU",
+				"name": "Somewhere Over Laredo",
+				"artists": [
+					"Lainey Wilson"
+				],
+				"album_name": "Somewhere Over Laredo",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "QMRSZ2500682",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/2c/c4/fd2cc48a-6040-a943-6e9c-a3f5e71f2dbd/mzaf_12628549588243412949.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Madeline",
+			"artist": "Zach Bryan Featuring Gabriella Rose",
+			"image": "https://charts-static.billboard.com/img/2025/08/zachbryan-6zf-madeline-vto-180x180.jpg",
+			"rank": 26,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Zach Bryan",
+				"id": "2DDo2QqElDO9PgOHeGtQiy",
+				"name": "Madeline (feat. Gabriella Rose)",
+				"artists": [
+					"Zach Bryan",
+					"Gabriella Rose"
+				],
+				"album_name": "Madeline (feat. Gabriella Rose)",
+				"type": "single",
+				"artistMatch": "step2 (single)",
+				"isrc": "USWB12502512",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/bd/c8/b2bdc836-d59a-81a5-899e-8da2ea6d1b0e/mzaf_14319300024629847317.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "River Washed Hair",
+			"artist": "Zach Bryan",
+			"image": "https://charts-static.billboard.com/img/2025/07/zachbryan-6zf-riverwashedhair-2sw-180x180.jpg",
+			"rank": 27,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 4,
+			"spotify_data": {
+				"artistQueried": "Zach Bryan",
+				"id": "76O7oz3bvW0WCBqXs9Tkuf",
+				"name": "River Washed Hair",
+				"artists": [
+					"Zach Bryan"
+				],
+				"album_name": "Streets of London",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12502426",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/97/2f/fa972fa1-29de-3110-be1f-ce4b4869a324/mzaf_13653058545557305707.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "I'm A Little Crazy",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 28,
+			"last_week_rank": 5,
+			"peak_rank": 0,
+			"weeks_on_chart": 19,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "2zIl3eEUd51KdtqGyJw1sg",
+				"name": "I'm A Little Crazy",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501631",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/68/02/d6680246-d4b5-74b1-69e6-c7da28c85593/mzaf_11072913647446702663.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Dark Til Daylight",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 29,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "0DlaIUTa0Ng1hOM1wcFcZe",
+				"name": "Dark Til Daylight",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501619",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/cc/f9/1eccf9dc-5ea1-a3f5-f995-ea5a4d53e47e/mzaf_10433857904061412484.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Thought It Was Love",
+			"artist": "Ty Myers",
+			"image": "https://charts-static.billboard.com/img/2024/10/tymyers-kju-180x180.jpg",
+			"rank": 30,
+			"last_week_rank": 25,
+			"peak_rank": 0,
+			"weeks_on_chart": 21,
+			"spotify_data": {
+				"artistQueried": "Ty Myers",
+				"id": "4fVoX6BG2jFhPx6uHKevpF",
+				"name": "Thought It Was Love",
+				"artists": [
+					"Ty Myers"
+				],
+				"album_name": "The Select",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USQX92406153",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/1d/8a/ba1d8a50-d477-7ff9-6bbb-d82fd45f39fd/mzaf_9752806349448904970.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Country Song Came On",
+			"artist": "Luke Bryan",
+			"image": "https://charts-static.billboard.com/img/2024/11/luke-bryan-zck-countrysongcameon-h3a-180x180.jpg",
+			"rank": 31,
+			"last_week_rank": 31,
+			"peak_rank": 0,
+			"weeks_on_chart": 5,
+			"spotify_data": {
+				"artistQueried": "Luke Bryan",
+				"id": "0LyGv85e5XkkSKBxNOopVE",
+				"name": "Country Song Came On",
+				"artists": [
+					"Luke Bryan"
+				],
+				"album_name": "Mind Of A Country Boy",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12404515",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/b5/b6/63b5b601-e9c8-5c0b-461c-2ba212fde819/mzaf_16791720577457501455.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Country House",
+			"artist": "Sam Hunt",
+			"image": "https://charts-static.billboard.com/img/2024/06/sam-hunt-eky-countryhouse-kog-180x180.jpg",
+			"rank": 32,
+			"last_week_rank": 27,
+			"peak_rank": 0,
+			"weeks_on_chart": 10,
+			"spotify_data": {
+				"artistQueried": "Sam Hunt",
+				"id": "2DOxC6AdXlSeUrsgWKuX4X",
+				"name": "Country House",
+				"artists": [
+					"Sam Hunt"
+				],
+				"album_name": "Locked Up",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUM72402610",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/37/fb/80/37fb8037-b757-d96f-3988-352f9c2d12b6/mzaf_13368919752759286572.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Hands Of Time",
+			"artist": "Eric Church",
+			"image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+			"rank": 33,
+			"last_week_rank": 20,
+			"peak_rank": 0,
+			"weeks_on_chart": 16,
+			"spotify_data": {
+				"artistQueried": "Eric Church",
+				"id": "0aJHZeX4rMCOXpo1LXXfBl",
+				"name": "Hands Of Time",
+				"artists": [
+					"Eric Church"
+				],
+				"album_name": "Evangeline vs. The Machine",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501188",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/5d/62/535d62e3-ddc7-d98d-977c-108415e3800a/mzaf_15371474299918212938.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "What Kinda Man",
+			"artist": "Parker McCollum",
+			"image": "https://charts-static.billboard.com/img/2024/09/parker-mccollum-16j-whatkindaman-6mj-180x180.jpg",
+			"rank": 34,
+			"last_week_rank": 34,
+			"peak_rank": 0,
+			"weeks_on_chart": 8,
+			"spotify_data": {
+				"artistQueried": "Parker McCollum",
+				"id": "2uH74oFgwuk5x0DlD3EFJ1",
+				"name": "What Kinda Man",
+				"artists": [
+					"Parker McCollum"
+				],
+				"album_name": "Parker McCollum",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72410290",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/29/2d/bd292d46-41ee-6951-ef10-d383a16a6bbb/mzaf_4787238529687858600.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Eatin' Big Time",
+			"artist": "Tyler Childers",
+			"image": "https://charts-static.billboard.com/img/2017/07/tyler-childers-op3-180x180.jpg",
+			"rank": 35,
+			"last_week_rank": 35,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Tyler Childers",
+				"id": "6b77gsnwtmE0mY1Xkv3Tyn",
+				"name": "Eatin' Big Time",
+				"artists": [
+					"Tyler Childers"
+				],
+				"album_name": "Snipe Hunter",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USRC12500847",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/dd/93/50dd93db-b773-de97-4386-1650f25955a9/mzaf_2542533724923512149.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Heart Of Stone",
+			"artist": "Jelly Roll",
+			"image": "https://charts-static.billboard.com/img/2024/10/jelly-roll-7m0-heartofstone-9jj-180x180.jpg",
+			"rank": 36,
+			"last_week_rank": 36,
+			"peak_rank": 0,
+			"weeks_on_chart": 5,
+			"spotify_data": {
+				"artistQueried": "Jelly Roll",
+				"id": "1bXKpjbalq0If54LBffE0i",
+				"name": "Heart of Stone",
+				"artists": [
+					"Jelly Roll"
+				],
+				"album_name": "Beautifully Broken",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12404535",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/7e/cf/1d7ecf82-636c-1f85-a86e-a45b9f107d5a/mzaf_10628327724456946676.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Oneida",
+			"artist": "Tyler Childers",
+			"image": "https://charts-static.billboard.com/img/2017/07/tyler-childers-op3-180x180.jpg",
+			"rank": 37,
+			"last_week_rank": 37,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Tyler Childers",
+				"id": "5dUCixiCL0CcIUdlgUl1ct",
+				"name": "Oneida",
+				"artists": [
+					"Tyler Childers"
+				],
+				"album_name": "Snipe Hunter",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USRC12500849",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/9a/9b/b89a9bad-eb37-2e76-1844-14ea6ab164b9/mzaf_17274956549225856415.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "This Heart",
+			"artist": "Corey Kent",
+			"image": "https://charts-static.billboard.com/img/2024/02/coreykent-jip-thisheart-7sp-180x180.jpg",
+			"rank": 38,
+			"last_week_rank": 27,
+			"peak_rank": 0,
+			"weeks_on_chart": 13,
+			"spotify_data": {
+				"artistQueried": "Corey Kent",
+				"id": "6qemtJVOjeRXRg1v2gVKxe",
+				"name": "This Heart",
+				"artists": [
+					"Corey Kent"
+				],
+				"album_name": "Black Bandana",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USRN12300106",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bf/d9/95/bfd99535-e9d1-c8b5-a31d-14337e9efc7a/mzaf_7568201800947813381.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Don't We",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 39,
+			"last_week_rank": 24,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "45UDzIWgqj5hgQKXLlfdp7",
+				"name": "Don't We",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501617",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/89/b2/c789b268-f68a-d546-15a9-6933ba3171ac/mzaf_13464534234756046585.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Kiss Her In Front Of You",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 40,
+			"last_week_rank": 16,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "6QvJKuhsqnK6wgNdmtDHFI",
+				"name": "Kiss Her In Front Of You",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501615",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/95/1b/d6951b06-3baa-f193-a3a5-bafb4374ad6c/mzaf_10296996796531297016.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Need To",
+			"artist": "Gavin Adcock",
+			"image": "https://charts-static.billboard.com/img/2025/02/gavinadcock-000-needto-3cm-180x180.jpg",
+			"rank": 41,
+			"last_week_rank": 41,
+			"peak_rank": 0,
+			"weeks_on_chart": 4,
+			"spotify_data": {
+				"artistQueried": "Gavin Adcock",
+				"id": "02JME7zoJ1EYMYBJAg4TMN",
+				"name": "Need To",
+				"artists": [
+					"Gavin Adcock"
+				],
+				"album_name": "Need To",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12500173",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/48/52/3a4852a0-7acd-1555-c4bc-6c3f114b4b9a/mzaf_18166651683487500102.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Eyes Are Closed",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 42,
+			"last_week_rank": 10,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "5QEAqQ7NzbTP8Px5N3Ggmi",
+				"name": "Eyes Are Closed",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501606",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/e9/41/7de9418f-a4de-688a-5eb9-755ad3af08ec/mzaf_3940203418524495242.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Where'd That Girl Go",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 43,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "3LJifNHnO7Uv90kEiOgBEy",
+				"name": "Where'd That Girl Go",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501611",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/6f/56/186f56f3-dfda-7370-b128-0283ff47b907/mzaf_2816263380040064662.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Brunette",
+			"artist": "Tucker Wetmore",
+			"image": "https://charts-static.billboard.com/img/2024/03/tuckerwetmore-ras-180x180.jpg",
+			"rank": 44,
+			"last_week_rank": 31,
+			"peak_rank": 0,
+			"weeks_on_chart": 10,
+			"spotify_data": {
+				"artistQueried": "Tucker Wetmore",
+				"id": "21T9HvQ0KUWFDum6P1Qc7i",
+				"name": "Brunette",
+				"artists": [
+					"Tucker Wetmore"
+				],
+				"album_name": "What Not To",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501301",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/32/aa/2d32aac5-13bc-124c-796f-03125ac95723/mzaf_8571956048832556093.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "God & Guns N Roses",
+			"artist": "Tyler Braden",
+			"image": "https://charts-static.billboard.com/img/2022/12/tylerbraden-78g-180x180.jpg",
+			"rank": 45,
+			"last_week_rank": 38,
+			"peak_rank": 0,
+			"weeks_on_chart": 12,
+			"spotify_data": null
+		},
+		{
+			"name": "Kick Myself",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 46,
+			"last_week_rank": 9,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "50kjUO9iWqTamrb3va05hu",
+				"name": "Kick Myself",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501607",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/12/fc/ec12fc4e-a5fb-6493-4599-743ee4f6e589/mzaf_8549292500382901008.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "The Fall",
+			"artist": "Cody Johnson",
+			"image": "https://charts-static.billboard.com/img/2025/05/cody-johnson-eoy-thefall-rvi-180x180.jpg",
+			"rank": 47,
+			"last_week_rank": 47,
+			"peak_rank": 0,
+			"weeks_on_chart": 3,
+			"spotify_data": {
+				"artistQueried": "Cody Johnson",
+				"id": "4QpuZ1Qbcd11aOtY1kGMRg",
+				"name": "The Fall",
+				"artists": [
+					"Cody Johnson"
+				],
+				"album_name": "Leather Deluxe Edition",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMCQK1900362",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/6e/88/c16e889d-fbed-8a62-0a19-b6d57e3eaf73/mzaf_12288755737207557533.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "If You Were Mine",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-z1m-180x180.jpg",
+			"rank": 48,
+			"last_week_rank": 19,
+			"peak_rank": 0,
+			"weeks_on_chart": 11,
+			"spotify_data": {
+				"artistQueried": "Morgan Wallen",
+				"id": "710dGcMZzo15JzqhJmDjOR",
+				"name": "If You Were Mine",
+				"artists": [
+					"Morgan Wallen"
+				],
+				"album_name": "I’m The Problem",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501616",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/52/df/0152dfe7-991d-b66f-2f94-9cb119eda0b4/mzaf_17070820076617430353.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Surrounded",
+			"artist": "Koe Wetzel",
+			"image": "https://charts-static.billboard.com/img/2025/08/koe-wetzel-1ky-surrounded-qro-180x180.jpg",
+			"rank": 49,
+			"last_week_rank": 49,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Koe Wetzel",
+				"id": "2Al9P5vRKol3YoqDIjWLwH",
+				"name": "Surrounded",
+				"artists": [
+					"Koe Wetzel"
+				],
+				"album_name": "Surrounded",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92503667",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/99/c4/8299c41e-88f1-15cf-7377-e081b3f169f9/mzaf_4145254333936376522.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Friday Night Heartbreaker",
+			"artist": "Jon Pardi",
+			"image": "https://charts-static.billboard.com/img/2024/09/jon-pardi-f7y-fridaynightheartbreaker-7iu-180x180.jpg",
+			"rank": 50,
+			"last_week_rank": 45,
+			"peak_rank": 0,
+			"weeks_on_chart": 3,
+			"spotify_data": {
+				"artistQueried": "Jon Pardi",
+				"id": "1XueA9ILXQjtfHSutkWUN9",
+				"name": "Friday Night Heartbreaker",
+				"artists": [
+					"Jon Pardi"
+				],
+				"album_name": "Honkytonk Hollywood",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72409633",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/99/3a/67993ae7-904c-fbd5-36eb-6faa3112f4ee/mzaf_3580531885951312739.plus.aac.p.m4a"
+			}
+		}
+	]
+}
