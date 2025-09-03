@@ -1,5 +1,5 @@
 {
-	"date": "2025-09-06",
+	"date": "2025-08-30",
 	"entries": [
 		{
 			"name": "After All The Bars Are Closed",
@@ -64,7 +64,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "USUG12501602",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/d3/6e/cfd36e82-fa80-2345-fcc5-57f02082f893/mzaf_6138300325380809568.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/f5/7d/fcf57d86-9ffc-4a8a-0b44-08770e96e149/mzaf_8195558198754627983.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -352,7 +352,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "USUG12501188",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/75/aa/6375aa9f-3eb5-d7e4-caf0-640c35dec4fe/mzaf_17118328743836495224.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/5d/62/535d62e3-ddc7-d98d-977c-108415e3800a/mzaf_15371474299918212938.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "QZYG82300092",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/3c/45/773c4538-3ea8-538e-5763-1f3ae5af0aa4/mzaf_2163156874967711740.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/4c/21/324c21b1-1b25-7b5a-a45e-bbc2771c7842/mzaf_10912315381854147105.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -431,14 +431,14 @@
 			"weeks_on_chart": 11,
 			"spotify_data": {
 				"artistQueried": "Zach Top",
-				"id": "41dLUlaMa3IUeNX3rN64Qr",
+				"id": "5ZBxXBh0h4QuwXb3tNj91d",
 				"name": "Good Times & Tan Lines",
 				"artists": [
 					"Zach Top"
 				],
-				"album_name": "Ain't In It For My Health",
-				"type": "album",
-				"artistMatch": "step1 (album)",
+				"album_name": "Good Times & Tan Lines",
+				"type": "single",
+				"artistMatch": "step1 (single)",
 				"isrc": "QZWH32500400",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/f4/da/09f4da4e-16a9-dff6-9222-dfdb8b942e89/mzaf_7737520423956134857.plus.aac.p.m4a"
 			}
@@ -484,7 +484,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "QMRSZ2402070",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/ef/be/faefbe94-91aa-e160-ff19-ac4f9b09ba6f/mzaf_15154250604149493452.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/c4/7e/d7c47e36-1eca-676a-5688-d224ce667abd/mzaf_3368500186619109144.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "QZRD92405772",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/75/17/7875170b-4c18-a3f8-c94b-6288bbcc0511/mzaf_6751437182054227826.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/42/d5/8c42d531-f696-f443-07ab-3a774828727a/mzaf_10391213208430441269.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -574,7 +574,7 @@
 				"type": "single",
 				"artistMatch": "step1 (single)",
 				"isrc": "USUG12502833",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/21/9b/8f219b72-5757-645f-13bb-ef19663f36d2/mzaf_2148745419993231358.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/0c/aa/840caa4f-66c9-9614-d8f5-92660ec6e898/mzaf_2496477317064578467.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -677,14 +677,14 @@
 			"weeks_on_chart": 9,
 			"spotify_data": {
 				"artistQueried": "Preston Cooper",
-				"id": "2Afz8c54DThAuLDkIgerKc",
+				"id": "5BS6zPEcgWaOzY8Yl7HNCN",
 				"name": "Weak",
 				"artists": [
 					"Preston Cooper"
 				],
-				"album_name": "Toledo Talkin'",
-				"type": "album",
-				"artistMatch": "step1 (album)",
+				"album_name": "Weak",
+				"type": "single",
+				"artistMatch": "step1 (single)",
 				"isrc": "QZRD92406355",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/81/00/f0810005-1fa9-bf04-6a35-00ac1bb8dc53/mzaf_13875392699692167357.plus.aac.p.m4a"
 			}
@@ -884,7 +884,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "USWB12501251",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/e5/a9/a2e5a947-e3ce-5ad7-4255-2669d9eed029/mzaf_15750993525102000241.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/73/02/cb7302d9-8755-0b55-7734-3250a2803b49/mzaf_5206242939457968017.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 				"type": "single",
 				"artistMatch": "step1 (single)",
 				"isrc": "QM6MZ2522255",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/89/b0/5489b008-0661-dae8-20c3-7df526f0b757/mzaf_7119298309021144514.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/01/e9/eb01e925-2e41-dd47-e229-8cb3b1ea722f/mzaf_13042902208034913550.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -972,7 +972,7 @@
 				"type": "single",
 				"artistMatch": "step1 (single)",
 				"isrc": "US6XF2500163",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/90/3d/30903dd9-b6e6-26b6-e264-97b29b585f02/mzaf_12437117803876483208.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/d0/07/edd007d5-5b87-630e-d85b-ac8e7af619c7/mzaf_6078281809402796850.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "QZRD92506832",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/6c/14/6a6c144b-b7d9-5c1e-9257-55b2285d93f5/mzaf_13996730002267967279.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/74/b5/4474b56b-2f55-4890-5a0b-76b6c25de648/mzaf_5426387056431789506.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -1051,15 +1051,16 @@
 			"weeks_on_chart": 14,
 			"spotify_data": {
 				"artistQueried": "Tim McGraw",
-				"id": "7e9MAUewjptPpjG8lY6gza",
+				"id": "52MQYkbFuv9UzA8wz927xO",
 				"name": "Paper Umbrellas",
 				"artists": [
-					"Tim McGraw"
+					"Tim McGraw",
+					"Parker McCollum"
 				],
-				"album_name": "Standing Room Only",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QZRD92303148",
+				"album_name": "Paper Umbrellas",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "QZRD92506751",
 				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b8/a7/2f/b8a72f7f-ff9d-8b7b-a3e0-027a8bf4c76d/mzaf_17600270905124671237.plus.aac.p.m4a"
 			}
 		},
@@ -1237,7 +1238,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "QZRD92406449",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/fe/79/b5fe790c-04a9-4dcb-1789-e6d0973c5ff0/mzaf_4759216745724421878.plus.aac.p.m4a"
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/e2/da/6ce2da59-d6e0-689b-680a-0498fbfd14d1/mzaf_5887171461928858444.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -1259,7 +1260,7 @@
 				"type": "album",
 				"artistMatch": "step1 (album)",
 				"isrc": "USWB12500905",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/8a/99/a28a9956-7d2c-8433-b9f7-b8071812dd02/mzaf_997777410965656191.plus.aac.p.m4a"
+				"preview": "Not found"
 			}
 		},
 		{
@@ -1281,7 +1282,7 @@
 				"type": "single",
 				"artistMatch": "step1 (single)",
 				"isrc": "QZRD92506749",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/fa/15/b3fa1501-7d33-f171-004c-20e06b8940f6/mzaf_14004643798860533952.plus.aac.p.m4a"
+				"preview": "Not found"
 			}
 		},
 		{
@@ -1303,7 +1304,7 @@
 				"type": "single",
 				"artistMatch": "step1 (single)",
 				"isrc": "QZZVQ2500101",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/d2/00/56d2001c-5266-5abb-0c00-454cb61fae63/mzaf_13121252986336669644.plus.aac.p.m4a"
+				"preview": "Not found"
 			}
 		}
 	]
