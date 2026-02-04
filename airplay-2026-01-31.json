@@ -1,5 +1,5 @@
 {
-	"date": "2026-02-07",
+	"date": "2026-01-31",
 	"entries": [
 		{
 			"name": "Favorite Country Song",
@@ -8,7 +8,7 @@
 			"rank": 1,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 42,
+			"weeks_on_chart": 41,
 			"spotify_data": {
 				"artistQueried": "HARDY",
 				"id": "1ARmO8RudHPmloapraihD3",
@@ -30,7 +30,7 @@
 			"rank": 2,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 15,
+			"weeks_on_chart": 14,
 			"spotify_data": {
 				"artistQueried": "Ella Langley",
 				"id": "65DbTqJKhbwqYbZ1Okr0rc",
@@ -46,35 +46,13 @@
 			}
 		},
 		{
-			"name": "It Won't Be Long",
-			"artist": "George Birge",
+			"name": "How Far Does A Goodbye Go",
+			"artist": "Jason Aldean",
 			"image": null,
 			"rank": 3,
 			"last_week_rank": 3,
 			"peak_rank": 0,
-			"weeks_on_chart": 53,
-			"spotify_data": {
-				"artistQueried": "George Birge",
-				"id": "4L7H1toyQvfKJWNlD0RfHt",
-				"name": "It Won't Be Long",
-				"artists": [
-					"George Birge"
-				],
-				"album_name": "It Won't Be Long",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "USQX92406910",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/d9/42/55d94256-b7d3-f2e4-ec5f-1cc922a4150e/mzaf_13489240839231051586.plus.aac.p.m4a"
-			}
-		},
-		{
-			"name": "How Far Does A Goodbye Go",
-			"artist": "Jason Aldean",
-			"image": null,
-			"rank": 4,
-			"last_week_rank": 3,
-			"peak_rank": 0,
-			"weeks_on_chart": 20,
+			"weeks_on_chart": 19,
 			"spotify_data": {
 				"artistQueried": "Jason Aldean",
 				"id": "17U2M7HB14yGe9QSAmbyyB",
@@ -92,11 +70,11 @@
 		{
 			"name": "20 Cigarettes",
 			"artist": "Morgan Wallen",
-			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg",
-			"rank": 5,
+			"image": null,
+			"rank": 4,
 			"last_week_rank": 4,
 			"peak_rank": 0,
-			"weeks_on_chart": 17,
+			"weeks_on_chart": 16,
 			"spotify_data": {
 				"artistQueried": "Morgan Wallen",
 				"id": "0YsIYFRoxkmEvbKCwTp0Tg",
@@ -115,10 +93,10 @@
 			"name": "Amen",
 			"artist": "Shaboozey & Jelly Roll",
 			"image": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg",
-			"rank": 6,
+			"rank": 5,
 			"last_week_rank": 5,
 			"peak_rank": 0,
-			"weeks_on_chart": 30,
+			"weeks_on_chart": 29,
 			"spotify_data": {
 				"artistQueried": "Shaboozey",
 				"id": "3anaHXs7z8NwLUatPxqJlE",
@@ -135,36 +113,79 @@
 			}
 		},
 		{
-			"name": "Ain't A Bad Life",
-			"artist": "Thomas Rhett Featuring Jordan Davis",
-			"image": "https://charts-static.billboard.com/img/2012/02/thomas-rhett-sbw-180x180.jpg",
-			"rank": 7,
-			"last_week_rank": 7,
+			"name": "It Won't Be Long",
+			"artist": "George Birge",
+			"image": "https://charts-static.billboard.com/img/2025/02/georgebirge-000-itwontbelong-plv-180x180.jpg",
+			"rank": 6,
+			"last_week_rank": 6,
 			"peak_rank": 0,
-			"weeks_on_chart": 20,
+			"weeks_on_chart": 52,
 			"spotify_data": {
-				"artistQueried": "Thomas Rhett",
-				"id": "59Wet0esLvTyJBhCjpXuUe",
-				"name": "Ain't A Bad Life",
+				"artistQueried": "George Birge",
+				"id": "4L7H1toyQvfKJWNlD0RfHt",
+				"name": "It Won't Be Long",
 				"artists": [
-					"Thomas Rhett",
-					"Jordan Davis"
+					"George Birge"
 				],
-				"album_name": "About A Woman (Deluxe)",
+				"album_name": "It Won't Be Long",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92406910",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/d9/42/55d94256-b7d3-f2e4-ec5f-1cc922a4150e/mzaf_13489240839231051586.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "6 Months Later",
+			"artist": "Megan Moroney",
+			"image": "https://charts-static.billboard.com/img/2025/07/meganmoroney-1wq-6monthslater-74i-180x180.jpg",
+			"rank": 7,
+			"last_week_rank": 2,
+			"peak_rank": 0,
+			"weeks_on_chart": 29,
+			"spotify_data": {
+				"artistQueried": "Megan Moroney",
+				"id": "4Km9FSF9iaQiTLnFPdbPom",
+				"name": "6 Months Later",
+				"artists": [
+					"Megan Moroney"
+				],
+				"album_name": "6 Months Later",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USQX92502917",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/91/c7/a391c78e-b390-c510-396f-78817288b1e0/mzaf_13289318795353757158.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Cowgirl",
+			"artist": "Parmalee",
+			"image": "https://charts-static.billboard.com/img/2025/01/parmalee-3ux-cowgirl-thf-180x180.jpg",
+			"rank": 8,
+			"last_week_rank": 1,
+			"peak_rank": 0,
+			"weeks_on_chart": 55,
+			"spotify_data": {
+				"artistQueried": "Parmalee",
+				"id": "4amKM1aExjBJT4cCpZta00",
+				"name": "Cowgirl",
+				"artists": [
+					"Parmalee"
+				],
+				"album_name": "Fell In Love With A Cowgirl",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "QZRD92507315",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/69/a9/b169a9e4-5a36-4d37-687f-c913f70c589b/mzaf_12326760148429788351.plus.aac.p.m4a"
+				"isrc": "QMRSZ2402070",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/ef/be/faefbe94-91aa-e160-ff19-ac4f9b09ba6f/mzaf_15154250604149493452.plus.aac.p.m4a"
 			}
 		},
 		{
 			"name": "Time's Ticking",
 			"artist": "Justin Moore",
 			"image": "https://charts-static.billboard.com/img/2024/12/justin-moore-w7r-timesticking-2ne-180x180.jpg",
-			"rank": 8,
-			"last_week_rank": 8,
+			"rank": 9,
+			"last_week_rank": 9,
 			"peak_rank": 0,
-			"weeks_on_chart": 58,
+			"weeks_on_chart": 57,
 			"spotify_data": {
 				"artistQueried": "Justin Moore",
 				"id": "1lcsXjEeKLhYbnvmmqYY3l",
@@ -181,13 +202,36 @@
 			}
 		},
 		{
+			"name": "Ain't A Bad Life",
+			"artist": "Thomas Rhett Featuring Jordan Davis",
+			"image": "https://charts-static.billboard.com/img/2012/02/thomas-rhett-sbw-180x180.jpg",
+			"rank": 10,
+			"last_week_rank": 10,
+			"peak_rank": 0,
+			"weeks_on_chart": 19,
+			"spotify_data": {
+				"artistQueried": "Thomas Rhett",
+				"id": "59Wet0esLvTyJBhCjpXuUe",
+				"name": "Ain't A Bad Life",
+				"artists": [
+					"Thomas Rhett",
+					"Jordan Davis"
+				],
+				"album_name": "About A Woman (Deluxe)",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZRD92507315",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/69/a9/b169a9e4-5a36-4d37-687f-c913f70c589b/mzaf_12326760148429788351.plus.aac.p.m4a"
+			}
+		},
+		{
 			"name": "House Again",
 			"artist": "Hudson Westbrook",
 			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-houseagain-zq0-180x180.jpg",
-			"rank": 9,
-			"last_week_rank": 9,
+			"rank": 11,
+			"last_week_rank": 10,
 			"peak_rank": 0,
-			"weeks_on_chart": 45,
+			"weeks_on_chart": 44,
 			"spotify_data": {
 				"artistQueried": "Hudson Westbrook",
 				"id": "1zM8S2pnIclcdTmrfFnWtX",
@@ -203,35 +247,13 @@
 			}
 		},
 		{
-			"name": "Better Me For You (Brown Eyes)",
-			"artist": "Max McNown",
-			"image": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg",
-			"rank": 10,
-			"last_week_rank": 10,
-			"peak_rank": 0,
-			"weeks_on_chart": 51,
-			"spotify_data": {
-				"artistQueried": "Max McNown",
-				"id": "4Iu73sdCNxZXZUIyClMoPZ",
-				"name": "Better Me For You (Brown Eyes)",
-				"artists": [
-					"Max McNown"
-				],
-				"album_name": "Night Diving",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QMGVJ2400200",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/dc/54/95dc5493-8b4b-7ffb-abca-af49915940c8/mzaf_5330396331759720318.plus.aac.p.m4a"
-			}
-		},
-		{
 			"name": "Days Like These",
 			"artist": "Luke Combs",
 			"image": "https://charts-static.billboard.com/img/2025/10/luke-combs-vjy-dayslikethese-eep-180x180.jpg",
-			"rank": 11,
-			"last_week_rank": 11,
+			"rank": 12,
+			"last_week_rank": 12,
 			"peak_rank": 0,
-			"weeks_on_chart": 12,
+			"weeks_on_chart": 11,
 			"spotify_data": {
 				"artistQueried": "Luke Combs",
 				"id": "5E2y5TSb2RJNCO01QjkgLf",
@@ -247,13 +269,35 @@
 			}
 		},
 		{
+			"name": "Better Me For You (Brown Eyes)",
+			"artist": "Max McNown",
+			"image": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg",
+			"rank": 13,
+			"last_week_rank": 13,
+			"peak_rank": 0,
+			"weeks_on_chart": 50,
+			"spotify_data": {
+				"artistQueried": "Max McNown",
+				"id": "4Iu73sdCNxZXZUIyClMoPZ",
+				"name": "Better Me For You (Brown Eyes)",
+				"artists": [
+					"Max McNown"
+				],
+				"album_name": "Night Diving",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMGVJ2400200",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/dc/54/95dc5493-8b4b-7ffb-abca-af49915940c8/mzaf_5330396331759720318.plus.aac.p.m4a"
+			}
+		},
+		{
 			"name": "What He'll Never Have",
 			"artist": "Dylan Scott",
 			"image": "https://charts-static.billboard.com/img/2024/04/dylan-scott-pnf-whathellneverhave-kmw-180x180.jpg",
-			"rank": 12,
-			"last_week_rank": 12,
+			"rank": 14,
+			"last_week_rank": 13,
 			"peak_rank": 0,
-			"weeks_on_chart": 40,
+			"weeks_on_chart": 39,
 			"spotify_data": {
 				"artistQueried": "Dylan Scott",
 				"id": "61SRKyox0R9jCzci4JXKBS",
@@ -272,10 +316,10 @@
 			"name": "The Fall",
 			"artist": "Cody Johnson",
 			"image": "https://charts-static.billboard.com/img/2025/05/cody-johnson-eoy-thefall-rvi-180x180.jpg",
-			"rank": 13,
-			"last_week_rank": 13,
+			"rank": 15,
+			"last_week_rank": 15,
 			"peak_rank": 0,
-			"weeks_on_chart": 40,
+			"weeks_on_chart": 39,
 			"spotify_data": {
 				"artistQueried": "Cody Johnson",
 				"id": "4QpuZ1Qbcd11aOtY1kGMRg",
@@ -294,42 +338,20 @@
 			"name": "I Ain't Coming Back",
 			"artist": "Morgan Wallen Featuring Post Malone",
 			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg",
-			"rank": 14,
-			"last_week_rank": 14,
+			"rank": 16,
+			"last_week_rank": 16,
 			"peak_rank": 0,
-			"weeks_on_chart": 41,
+			"weeks_on_chart": 40,
 			"spotify_data": null
-		},
-		{
-			"name": "Ends Of The Earth",
-			"artist": "Ty Myers",
-			"image": "https://charts-static.billboard.com/img/2024/10/tymyers-kju-endsoftheearth-7v3-180x180.jpg",
-			"rank": 15,
-			"last_week_rank": 15,
-			"peak_rank": 0,
-			"weeks_on_chart": 48,
-			"spotify_data": {
-				"artistQueried": "Ty Myers",
-				"id": "6nd49XfTkJQI0rI9fnJIpy",
-				"name": "Ends of the Earth",
-				"artists": [
-					"Ty Myers"
-				],
-				"album_name": "The Select",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USQX92404450",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/b8/a2/c1b8a239-ba60-1878-d49c-3e8158b4701b/mzaf_14058022834623458129.plus.aac.p.m4a"
-			}
 		},
 		{
 			"name": "I Dare You",
 			"artist": "Rascal Flatts & Jonas Brothers",
 			"image": "https://charts-static.billboard.com/img/2025/02/rascal-flatts-rjg-idareyou-si1-180x180.jpg",
-			"rank": 16,
-			"last_week_rank": 16,
+			"rank": 17,
+			"last_week_rank": 17,
 			"peak_rank": 0,
-			"weeks_on_chart": 52,
+			"weeks_on_chart": 51,
 			"spotify_data": {
 				"artistQueried": "Rascal Flatts",
 				"id": "0o5fZ3L5LpYEVyxNhDJke7",
@@ -346,13 +368,35 @@
 			}
 		},
 		{
+			"name": "Ends Of The Earth",
+			"artist": "Ty Myers",
+			"image": "https://charts-static.billboard.com/img/2024/10/tymyers-kju-endsoftheearth-7v3-180x180.jpg",
+			"rank": 18,
+			"last_week_rank": 18,
+			"peak_rank": 0,
+			"weeks_on_chart": 47,
+			"spotify_data": {
+				"artistQueried": "Ty Myers",
+				"id": "6nd49XfTkJQI0rI9fnJIpy",
+				"name": "Ends of the Earth",
+				"artists": [
+					"Ty Myers"
+				],
+				"album_name": "The Select",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USQX92404450",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/b8/a2/c1b8a239-ba60-1878-d49c-3e8158b4701b/mzaf_14058022834623458129.plus.aac.p.m4a"
+			}
+		},
+		{
 			"name": "A Song To Sing",
 			"artist": "Miranda Lambert & Chris Stapleton",
 			"image": "https://charts-static.billboard.com/img/2025/07/miranda-lambert-fv2-asongtosing-cfj-180x180.jpg",
-			"rank": 17,
-			"last_week_rank": 17,
+			"rank": 19,
+			"last_week_rank": 19,
 			"peak_rank": 0,
-			"weeks_on_chart": 29,
+			"weeks_on_chart": 28,
 			"spotify_data": {
 				"artistQueried": "Miranda Lambert",
 				"id": "7L9N5bxblTyzTknaxo7duX",
@@ -372,10 +416,10 @@
 			"name": "Golden Child",
 			"artist": "Meghan Patrick",
 			"image": "https://charts-static.billboard.com/img/2024/10/meghan-patrick-p49-goldenchild-tib-180x180.jpg",
-			"rank": 18,
-			"last_week_rank": 18,
+			"rank": 20,
+			"last_week_rank": 20,
 			"peak_rank": 0,
-			"weeks_on_chart": 60,
+			"weeks_on_chart": 59,
 			"spotify_data": {
 				"artistQueried": "Meghan Patrick",
 				"id": "2jSMvakRAw8u0vWjBROXSk",
@@ -394,10 +438,10 @@
 			"name": "Turn This Truck Around",
 			"artist": "Jordan Davis",
 			"image": "https://charts-static.billboard.com/img/2017/07/jordan-davis-wxd-180x180.jpg",
-			"rank": 19,
-			"last_week_rank": 19,
+			"rank": 21,
+			"last_week_rank": 21,
 			"peak_rank": 0,
-			"weeks_on_chart": 14,
+			"weeks_on_chart": 13,
 			"spotify_data": {
 				"artistQueried": "Jordan Davis",
 				"id": "26me6ABXv5sHTe6eriudll",
@@ -413,35 +457,13 @@
 			}
 		},
 		{
-			"name": "Me & A Beer",
-			"artist": "Chris Janson",
-			"image": "https://charts-static.billboard.com/img/2025/05/chris-janson-w54-meabeer-yer-180x180.jpg",
-			"rank": 20,
-			"last_week_rank": 20,
-			"peak_rank": 0,
-			"weeks_on_chart": 35,
-			"spotify_data": {
-				"artistQueried": "Chris Janson",
-				"id": "1RP7p1PhMMUPB8FZwUxWAS",
-				"name": "Me & A Beer",
-				"artists": [
-					"Chris Janson"
-				],
-				"album_name": "Wild Horses",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USWB12501251",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/e5/a9/a2e5a947-e3ce-5ad7-4255-2669d9eed029/mzaf_15750993525102000241.plus.aac.p.m4a"
-			}
-		},
-		{
 			"name": "Wish You Well",
 			"artist": "Vincent Mason",
 			"image": "https://charts-static.billboard.com/img/2025/03/vincentmason-000-wishyouwell-unb-180x180.jpg",
-			"rank": 21,
-			"last_week_rank": 21,
+			"rank": 22,
+			"last_week_rank": 22,
 			"peak_rank": 0,
-			"weeks_on_chart": 47,
+			"weeks_on_chart": 46,
 			"spotify_data": {
 				"artistQueried": "Vincent Mason",
 				"id": "4NUEiSUy1L3HhIEteIcJeB",
@@ -457,35 +479,35 @@
 			}
 		},
 		{
-			"name": "Change My Mind",
-			"artist": "Riley Green",
-			"image": "https://charts-static.billboard.com/img/2017/09/riley-green-flo-180x180.jpg",
-			"rank": 22,
-			"last_week_rank": 22,
+			"name": "Me & A Beer",
+			"artist": "Chris Janson",
+			"image": "https://charts-static.billboard.com/img/2025/05/chris-janson-w54-meabeer-yer-180x180.jpg",
+			"rank": 23,
+			"last_week_rank": 23,
 			"peak_rank": 0,
-			"weeks_on_chart": 5,
+			"weeks_on_chart": 34,
 			"spotify_data": {
-				"artistQueried": "Riley Green",
-				"id": "6puede6hRbNP5SdPmS2PT0",
-				"name": "Change My Mind",
+				"artistQueried": "Chris Janson",
+				"id": "1RP7p1PhMMUPB8FZwUxWAS",
+				"name": "Me & A Beer",
 				"artists": [
-					"Riley Green"
+					"Chris Janson"
 				],
-				"album_name": "Don't Mind If I Do",
+				"album_name": "Wild Horses",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "QZRD92405763",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/90/b2/ce90b2f4-6a9b-35ec-7479-6775c8794e1d/mzaf_4908287008883337272.plus.aac.p.m4a"
+				"isrc": "USWB12501251",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/e5/a9/a2e5a947-e3ce-5ad7-4255-2669d9eed029/mzaf_15750993525102000241.plus.aac.p.m4a"
 			}
 		},
 		{
 			"name": "Making Good Time",
 			"artist": "Old Dominion",
 			"image": "https://charts-static.billboard.com/img/2025/07/old-dominion-dh2-makinggoodtime-fnj-180x180.jpg",
-			"rank": 23,
-			"last_week_rank": 23,
+			"rank": 24,
+			"last_week_rank": 24,
 			"peak_rank": 0,
-			"weeks_on_chart": 25,
+			"weeks_on_chart": 24,
 			"spotify_data": {
 				"artistQueried": "Old Dominion",
 				"id": "1qxFLRDXGODJeSaeGvMghl",
@@ -501,35 +523,35 @@
 			}
 		},
 		{
-			"name": "Brunette",
-			"artist": "Tucker Wetmore",
-			"image": "https://charts-static.billboard.com/img/2024/03/tuckerwetmore-ras-180x180.jpg",
-			"rank": 24,
-			"last_week_rank": 24,
+			"name": "Change My Mind",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2017/09/riley-green-flo-180x180.jpg",
+			"rank": 25,
+			"last_week_rank": 25,
 			"peak_rank": 0,
-			"weeks_on_chart": 7,
+			"weeks_on_chart": 4,
 			"spotify_data": {
-				"artistQueried": "Tucker Wetmore",
-				"id": "21T9HvQ0KUWFDum6P1Qc7i",
-				"name": "Brunette",
+				"artistQueried": "Riley Green",
+				"id": "6puede6hRbNP5SdPmS2PT0",
+				"name": "Change My Mind",
 				"artists": [
-					"Tucker Wetmore"
+					"Riley Green"
 				],
-				"album_name": "What Not To",
+				"album_name": "Don't Mind If I Do",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "USUG12501301",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/19/f4/ee19f4c0-5337-3a23-e750-876fbd23b73e/mzaf_10971707965138632614.plus.aac.p.m4a"
+				"isrc": "QZRD92405763",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/90/b2/ce90b2f4-6a9b-35ec-7479-6775c8794e1d/mzaf_4908287008883337272.plus.aac.p.m4a"
 			}
 		},
 		{
 			"name": "Beautiful Things",
 			"artist": "Megan Moroney",
 			"image": "https://charts-static.billboard.com/img/2025/11/meganmoroney-1wq-beautifulthings-3dm-180x180.jpg",
-			"rank": 25,
-			"last_week_rank": 25,
+			"rank": 26,
+			"last_week_rank": 26,
 			"peak_rank": 0,
-			"weeks_on_chart": 14,
+			"weeks_on_chart": 13,
 			"spotify_data": {
 				"artistQueried": "Megan Moroney",
 				"id": "6WjwYL2tzzci2pvpv50rS4",
@@ -545,35 +567,13 @@
 			}
 		},
 		{
-			"name": "Sleepless In A Hotel Room",
-			"artist": "Luke Combs",
-			"image": "https://charts-static.billboard.com/img/2015/07/luke-combs-vjy-180x180.jpg",
-			"rank": 26,
-			"last_week_rank": 26,
-			"peak_rank": 0,
-			"weeks_on_chart": 3,
-			"spotify_data": {
-				"artistQueried": "Luke Combs",
-				"id": "2za9t2qpWyUpIhnJcwopPt",
-				"name": "Sleepless in a Hotel Room",
-				"artists": [
-					"Luke Combs"
-				],
-				"album_name": "Sleepless in a Hotel Room",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "US6XF2500207",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "Til The Last One Dies",
 			"artist": "Chris Young",
 			"image": "https://charts-static.billboard.com/img/2025/04/chris-young-7hi-tilthelastonedies-0u3-180x180.jpg",
 			"rank": 27,
 			"last_week_rank": 27,
 			"peak_rank": 0,
-			"weeks_on_chart": 43,
+			"weeks_on_chart": 42,
 			"spotify_data": {
 				"artistQueried": "Chris Young",
 				"id": "1D4Qcc3NtR7kdOxWe3owT5",
@@ -589,23 +589,13 @@
 			}
 		},
 		{
-			"name": "Rocky Mountain Low",
-			"artist": "Corey Kent & Koe Wetzel",
-			"image": "https://charts-static.billboard.com/img/2025/12/coreykent-jip-rockymountainlow-d6t-180x180.jpg",
-			"rank": 28,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 8,
-			"spotify_data": null
-		},
-		{
 			"name": "Weak",
 			"artist": "Preston Cooper",
 			"image": "https://charts-static.billboard.com/img/2025/06/prestoncooper-z8u-weak-2nq-180x180.jpg",
-			"rank": 29,
+			"rank": 28,
 			"last_week_rank": 26,
 			"peak_rank": 0,
-			"weeks_on_chart": 32,
+			"weeks_on_chart": 31,
 			"spotify_data": {
 				"artistQueried": "Preston Cooper",
 				"id": "2Afz8c54DThAuLDkIgerKc",
@@ -621,13 +611,55 @@
 			}
 		},
 		{
-			"name": "Wrong Hearts",
-			"artist": "LoCash",
-			"image": "https://charts-static.billboard.com/img/2025/06/locash-000-wronghearts-y1b-180x180.jpg",
+			"name": "Brunette",
+			"artist": "Tucker Wetmore",
+			"image": "https://charts-static.billboard.com/img/2024/03/tuckerwetmore-ras-180x180.jpg",
+			"rank": 29,
+			"last_week_rank": 29,
+			"peak_rank": 0,
+			"weeks_on_chart": 6,
+			"spotify_data": {
+				"artistQueried": "Tucker Wetmore",
+				"id": "21T9HvQ0KUWFDum6P1Qc7i",
+				"name": "Brunette",
+				"artists": [
+					"Tucker Wetmore"
+				],
+				"album_name": "What Not To",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUG12501301",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/19/f4/ee19f4c0-5337-3a23-e750-876fbd23b73e/mzaf_10971707965138632614.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Rocky Mountain Low",
+			"artist": "Corey Kent & Koe Wetzel",
+			"image": "https://charts-static.billboard.com/img/2025/12/coreykent-jip-rockymountainlow-d6t-180x180.jpg",
 			"rank": 30,
 			"last_week_rank": 30,
 			"peak_rank": 0,
-			"weeks_on_chart": 33,
+			"weeks_on_chart": 7,
+			"spotify_data": null
+		},
+		{
+			"name": "After Midnight",
+			"artist": "Nate Smith & Tyler Hubbard",
+			"image": "https://charts-static.billboard.com/img/2025/11/natesmith-tuf-aftermidnight-443-180x180.jpg",
+			"rank": 31,
+			"last_week_rank": 28,
+			"peak_rank": 0,
+			"weeks_on_chart": 10,
+			"spotify_data": null
+		},
+		{
+			"name": "Wrong Hearts",
+			"artist": "LoCash",
+			"image": "https://charts-static.billboard.com/img/2025/06/locash-000-wronghearts-y1b-180x180.jpg",
+			"rank": 32,
+			"last_week_rank": 30,
+			"peak_rank": 0,
+			"weeks_on_chart": 32,
 			"spotify_data": {
 				"artistQueried": "LoCash",
 				"id": "0uPaK3PWMnQzAv70pY1NUz",
@@ -643,23 +675,13 @@
 			}
 		},
 		{
-			"name": "After Midnight",
-			"artist": "Nate Smith & Tyler Hubbard",
-			"image": "https://charts-static.billboard.com/img/2025/11/natesmith-tuf-aftermidnight-443-180x180.jpg",
-			"rank": 31,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 11,
-			"spotify_data": null
-		},
-		{
 			"name": "Chevy Silverado",
 			"artist": "Bailey Zimmerman",
 			"image": "https://charts-static.billboard.com/img/2022/02/baileyzimmerman-8gx-180x180.jpg",
-			"rank": 32,
-			"last_week_rank": 32,
+			"rank": 33,
+			"last_week_rank": 33,
 			"peak_rank": 0,
-			"weeks_on_chart": 16,
+			"weeks_on_chart": 15,
 			"spotify_data": {
 				"artistQueried": "Bailey Zimmerman",
 				"id": "2g91Y7tUI0xBX7ZdlkSCLe",
@@ -675,35 +697,13 @@
 			}
 		},
 		{
-			"name": "Baggage",
-			"artist": "Kelsea Ballerini",
-			"image": "https://charts-static.billboard.com/img/2024/11/kelsea-ballerini-qbl-baggage-hr6-180x180.jpg",
-			"rank": 33,
-			"last_week_rank": 33,
-			"peak_rank": 0,
-			"weeks_on_chart": 36,
-			"spotify_data": {
-				"artistQueried": "Kelsea Ballerini",
-				"id": "0YC7DEF6UKaFVXIV9EMiG5",
-				"name": "Baggage",
-				"artists": [
-					"Kelsea Ballerini"
-				],
-				"album_name": "PATTERNS Commentary Album",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QM7282433005",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/4f/a1/244fa149-6b67-c661-52de-9cfa17ee7f8e/mzaf_16201032646552528381.plus.aac.p.m4a"
-			}
-		},
-		{
 			"name": "Never Call Again",
 			"artist": "Gavin Adcock",
 			"image": "https://charts-static.billboard.com/img/2025/08/gavinadcock-zdi-nevercallagain-9y4-180x180.jpg",
 			"rank": 34,
 			"last_week_rank": 32,
 			"peak_rank": 0,
-			"weeks_on_chart": 27,
+			"weeks_on_chart": 26,
 			"spotify_data": {
 				"artistQueried": "Gavin Adcock",
 				"id": "3oBcE3f0ci42Qmgraj1SId",
@@ -719,13 +719,79 @@
 			}
 		},
 		{
+			"name": "Baggage",
+			"artist": "Kelsea Ballerini",
+			"image": "https://charts-static.billboard.com/img/2024/11/kelsea-ballerini-qbl-baggage-hr6-180x180.jpg",
+			"rank": 35,
+			"last_week_rank": 34,
+			"peak_rank": 0,
+			"weeks_on_chart": 35,
+			"spotify_data": {
+				"artistQueried": "Kelsea Ballerini",
+				"id": "0YC7DEF6UKaFVXIV9EMiG5",
+				"name": "Baggage",
+				"artists": [
+					"Kelsea Ballerini"
+				],
+				"album_name": "PATTERNS Commentary Album",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QM7282433005",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/4f/a1/244fa149-6b67-c661-52de-9cfa17ee7f8e/mzaf_16201032646552528381.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Sleepless In A Hotel Room",
+			"artist": "Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2015/07/luke-combs-vjy-180x180.jpg",
+			"rank": 36,
+			"last_week_rank": 36,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Luke Combs",
+				"id": "2za9t2qpWyUpIhnJcwopPt",
+				"name": "Sleepless in a Hotel Room",
+				"artists": [
+					"Luke Combs"
+				],
+				"album_name": "Sleepless in a Hotel Room",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "US6XF2500207",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Kid Myself",
+			"artist": "John Morgan",
+			"image": "https://charts-static.billboard.com/img/2025/07/johnmorgan-000-kidmyself-iki-180x180.jpg",
+			"rank": 37,
+			"last_week_rank": 37,
+			"peak_rank": 0,
+			"weeks_on_chart": 29,
+			"spotify_data": {
+				"artistQueried": "John Morgan",
+				"id": "12NttyzBK1WbmWatB0fzsL",
+				"name": "Kid Myself",
+				"artists": [
+					"John Morgan"
+				],
+				"album_name": "Carolina Blue",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMRSZ2402141",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8e/65/268e652e-009c-e0b8-d4b9-3577f411752e/mzaf_12799561156900417705.plus.aac.p.m4a"
+			}
+		},
+		{
 			"name": "South Of Sanity",
 			"artist": "Zach Top",
 			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
-			"rank": 35,
-			"last_week_rank": 35,
+			"rank": 38,
+			"last_week_rank": 38,
 			"peak_rank": 0,
-			"weeks_on_chart": 7,
+			"weeks_on_chart": 6,
 			"spotify_data": {
 				"artistQueried": "Zach Top",
 				"id": "0hc2s7sbPTomegDXpIySok",
@@ -744,10 +810,10 @@
 			"name": "Hate How You Look",
 			"artist": "Josh Ross",
 			"image": "https://charts-static.billboard.com/img/2025/05/joshross-5c2-hatehowyoulook-33g-180x180.jpg",
-			"rank": 36,
-			"last_week_rank": 36,
+			"rank": 39,
+			"last_week_rank": 37,
 			"peak_rank": 0,
-			"weeks_on_chart": 19,
+			"weeks_on_chart": 18,
 			"spotify_data": {
 				"artistQueried": "Josh Ross",
 				"id": "7BQfK4lzF7rUBaxTh5V3qv",
@@ -766,10 +832,10 @@
 			"name": "All My Exes",
 			"artist": "Lauren Alaina Featuring Chase Matthew",
 			"image": "https://charts-static.billboard.com/img/2025/09/lauren-alaina-ngh-allmyexes-v3m-180x180.jpg",
-			"rank": 37,
-			"last_week_rank": 37,
+			"rank": 40,
+			"last_week_rank": 39,
 			"peak_rank": 0,
-			"weeks_on_chart": 21,
+			"weeks_on_chart": 20,
 			"spotify_data": {
 				"artistQueried": "Lauren Alaina",
 				"id": "0cjJKsmTPUZeZY5A9IyXca",
@@ -786,35 +852,35 @@
 			}
 		},
 		{
-			"name": "Kid Myself",
-			"artist": "John Morgan",
-			"image": "https://charts-static.billboard.com/img/2025/07/johnmorgan-000-kidmyself-iki-180x180.jpg",
-			"rank": 38,
-			"last_week_rank": 37,
+			"name": "Light Of A Clear Blue Morning",
+			"artist": "Dolly Parton Featuring Lainey Wilson, Miley Cyrus, Queen Latifah & Reba McEntire",
+			"image": "https://charts-static.billboard.com/img/1967/01/dolly-parton-ma4-180x180.jpg",
+			"rank": 41,
+			"last_week_rank": 41,
 			"peak_rank": 0,
-			"weeks_on_chart": 30,
+			"weeks_on_chart": 1,
 			"spotify_data": {
-				"artistQueried": "John Morgan",
-				"id": "12NttyzBK1WbmWatB0fzsL",
-				"name": "Kid Myself",
+				"artistQueried": "Dolly Parton",
+				"id": "5A9scs52hDGefDOTRNio5o",
+				"name": "Light of a Clear Blue Morning",
 				"artists": [
-					"John Morgan"
+					"Dolly Parton"
 				],
-				"album_name": "Carolina Blue",
+				"album_name": "New Harvest...First Gathering",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "QMRSZ2402141",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8e/65/268e652e-009c-e0b8-d4b9-3577f411752e/mzaf_12799561156900417705.plus.aac.p.m4a"
+				"isrc": "USRN17600002",
+				"preview": "Not found"
 			}
 		},
 		{
 			"name": "Long Live Country",
 			"artist": "Shane Profitt",
 			"image": "https://charts-static.billboard.com/img/2025/08/shaneprofitt-000-longlivecountry-mc7-180x180.jpg",
-			"rank": 39,
-			"last_week_rank": 39,
+			"rank": 42,
+			"last_week_rank": 42,
 			"peak_rank": 0,
-			"weeks_on_chart": 18,
+			"weeks_on_chart": 17,
 			"spotify_data": {
 				"artistQueried": "Shane Profitt",
 				"id": "5cazx84JWJXHE8ASMXTCtE",
@@ -830,101 +896,13 @@
 			}
 		},
 		{
-			"name": "Travelin' Soldier",
-			"artist": "Cody Johnson",
-			"image": "https://charts-static.billboard.com/img/2025/11/cody-johnson-eoy-travelinsoldier-cvg-180x180.jpg",
-			"rank": 40,
-			"last_week_rank": 40,
-			"peak_rank": 0,
-			"weeks_on_chart": 11,
-			"spotify_data": {
-				"artistQueried": "Cody Johnson",
-				"id": "4ThbwJaIWVxXZ1qJaHQBCz",
-				"name": "Travelin' Soldier",
-				"artists": [
-					"Cody Johnson"
-				],
-				"album_name": "Travelin' Soldier",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "QMCQK1900436",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Boots Off",
-			"artist": "Jon Pardi",
-			"image": "https://charts-static.billboard.com/img/2012/04/jon-pardi-f7y-180x180.jpg",
-			"rank": 41,
-			"last_week_rank": 41,
-			"peak_rank": 0,
-			"weeks_on_chart": 2,
-			"spotify_data": {
-				"artistQueried": "Jon Pardi",
-				"id": "3MlvvRRwYfCpgIqUUPeYQ0",
-				"name": "Boots Off",
-				"artists": [
-					"Jon Pardi"
-				],
-				"album_name": "Honkytonk Hollywood",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USUM72412132",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Burned Down Heaven",
-			"artist": "Chase McDaniel",
-			"image": "https://charts-static.billboard.com/img/2025/05/chasemcdaniel-rje-burneddownheaven-ccc-180x180.jpg",
-			"rank": 42,
-			"last_week_rank": 42,
-			"peak_rank": 0,
-			"weeks_on_chart": 37,
-			"spotify_data": {
-				"artistQueried": "Chase McDaniel",
-				"id": "1bpOr92N4nEBrmRNwWL2Ma",
-				"name": "Burned Down Heaven",
-				"artists": [
-					"Chase McDaniel"
-				],
-				"album_name": "Lost Ones",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QZRD92406416",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/30/50/a43050e8-150d-58e5-98d4-8d6be06f4792/mzaf_17391527456853947346.plus.aac.p.m4a"
-			}
-		},
-		{
-			"name": "Straight For The Heart",
-			"artist": "Alexandra Kay",
-			"image": "https://charts-static.billboard.com/img/2025/11/alexandra-kay-iam-straightfortheheart-1f5-180x180.jpg",
-			"rank": 43,
-			"last_week_rank": 43,
-			"peak_rank": 0,
-			"weeks_on_chart": 11,
-			"spotify_data": {
-				"artistQueried": "Alexandra Kay",
-				"id": "7hmhLP5CQRFBnhZyGdZKTs",
-				"name": "Straight For The Heart",
-				"artists": [
-					"Alexandra Kay"
-				],
-				"album_name": "Second Wind",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QMRSZ2500911",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "The Hell You Are",
 			"artist": "Ashley Cooke",
 			"image": "https://charts-static.billboard.com/img/2022/04/ashleycooke-62h-180x180.jpg",
-			"rank": 44,
+			"rank": 43,
 			"last_week_rank": 43,
 			"peak_rank": 0,
-			"weeks_on_chart": 14,
+			"weeks_on_chart": 13,
 			"spotify_data": {
 				"artistQueried": "Ashley Cooke",
 				"id": "6uVqh52lWUeTTeJZQWYwT4",
@@ -943,10 +921,10 @@
 			"name": "Easy To Love",
 			"artist": "Dustin Lynch",
 			"image": "https://charts-static.billboard.com/img/2025/06/dustin-lynch-xmu-easytolove-cgt-180x180.jpg",
-			"rank": 45,
+			"rank": 44,
 			"last_week_rank": 34,
 			"peak_rank": 0,
-			"weeks_on_chart": 29,
+			"weeks_on_chart": 28,
 			"spotify_data": {
 				"artistQueried": "Dustin Lynch",
 				"id": "3yG18Ue8wjrlcHfCiKYgjs",
@@ -962,24 +940,68 @@
 			}
 		},
 		{
-			"name": "Water At A Wedding",
-			"artist": "Greylan James",
-			"image": "https://charts-static.billboard.com/img/2025/08/greylanjames-000-wateratawedding-30y-180x180.jpg",
-			"rank": 46,
-			"last_week_rank": 46,
+			"name": "Burned Down Heaven",
+			"artist": "Chase McDaniel",
+			"image": "https://charts-static.billboard.com/img/2025/05/chasemcdaniel-rje-burneddownheaven-ccc-180x180.jpg",
+			"rank": 45,
+			"last_week_rank": 43,
 			"peak_rank": 0,
-			"weeks_on_chart": 6,
+			"weeks_on_chart": 36,
 			"spotify_data": {
-				"artistQueried": "Greylan James",
-				"id": "3l6d8dxIzl47flROA7KglW",
-				"name": "Water At A Wedding",
+				"artistQueried": "Chase McDaniel",
+				"id": "1bpOr92N4nEBrmRNwWL2Ma",
+				"name": "Burned Down Heaven",
 				"artists": [
-					"Greylan James"
+					"Chase McDaniel"
 				],
-				"album_name": "Water At A Wedding",
+				"album_name": "Lost Ones",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QZRD92406416",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/30/50/a43050e8-150d-58e5-98d4-8d6be06f4792/mzaf_17391527456853947346.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "Travelin' Soldier",
+			"artist": "Cody Johnson",
+			"image": "https://charts-static.billboard.com/img/2025/11/cody-johnson-eoy-travelinsoldier-cvg-180x180.jpg",
+			"rank": 46,
+			"last_week_rank": 42,
+			"peak_rank": 0,
+			"weeks_on_chart": 10,
+			"spotify_data": {
+				"artistQueried": "Cody Johnson",
+				"id": "4ThbwJaIWVxXZ1qJaHQBCz",
+				"name": "Travelin' Soldier",
+				"artists": [
+					"Cody Johnson"
+				],
+				"album_name": "Travelin' Soldier",
 				"type": "single",
 				"artistMatch": "step1 (single)",
-				"isrc": "QZRD92507314",
+				"isrc": "QMCQK1900436",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Straight For The Heart",
+			"artist": "Alexandra Kay",
+			"image": "https://charts-static.billboard.com/img/2025/11/alexandra-kay-iam-straightfortheheart-1f5-180x180.jpg",
+			"rank": 47,
+			"last_week_rank": 46,
+			"peak_rank": 0,
+			"weeks_on_chart": 10,
+			"spotify_data": {
+				"artistQueried": "Alexandra Kay",
+				"id": "7hmhLP5CQRFBnhZyGdZKTs",
+				"name": "Straight For The Heart",
+				"artists": [
+					"Alexandra Kay"
+				],
+				"album_name": "Second Wind",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMRSZ2500911",
 				"preview": "Not found"
 			}
 		},
@@ -987,10 +1009,10 @@
 			"name": "Fireworks",
 			"artist": "Kelsey Hart",
 			"image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
-			"rank": 47,
-			"last_week_rank": 47,
+			"rank": 48,
+			"last_week_rank": 48,
 			"peak_rank": 0,
-			"weeks_on_chart": 15,
+			"weeks_on_chart": 14,
 			"spotify_data": {
 				"artistQueried": "Kelsey Hart",
 				"id": "0NaijH1DIEp6YdsKMpUJ9p",
@@ -1006,35 +1028,13 @@
 			}
 		},
 		{
-			"name": "Heaven Passing Through",
-			"artist": "Turnpike Troubadours",
-			"image": "https://charts-static.billboard.com/img/2011/04/the-turnpike-troubadours-5xf-180x180.jpg",
-			"rank": 48,
-			"last_week_rank": 48,
-			"peak_rank": 0,
-			"weeks_on_chart": 20,
-			"spotify_data": {
-				"artistQueried": "Turnpike Troubadours",
-				"id": "66Mk4Rd6A08oa6bF27uQxj",
-				"name": "Heaven Passing Through",
-				"artists": [
-					"Turnpike Troubadours"
-				],
-				"album_name": "The Price of Admission",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "QM6MZ2547789",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/7e/ae/cb7eae86-04ce-6b67-8760-b6d30bb00039/mzaf_1450301818842648366.plus.aac.p.m4a"
-			}
-		},
-		{
 			"name": "Killed The Man",
 			"artist": "Lee Brice",
 			"image": "https://charts-static.billboard.com/img/2025/11/lee-brice-vvw-killedtheman-5h7-180x180.jpg",
 			"rank": 49,
 			"last_week_rank": 44,
 			"peak_rank": 0,
-			"weeks_on_chart": 12,
+			"weeks_on_chart": 11,
 			"spotify_data": {
 				"artistQueried": "Lee Brice",
 				"id": "02J41FCNMPTEC00WinMGKs",
@@ -1050,47 +1050,47 @@
 			}
 		},
 		{
-			"name": "Dream Come True",
-			"artist": "Carly Pearce",
-			"image": "https://charts-static.billboard.com/img/2025/11/carly-pearce-9t8-dreamcometrue-e2d-180x180.jpg",
+			"name": "Heaven Passing Through",
+			"artist": "Turnpike Troubadours",
+			"image": "https://charts-static.billboard.com/img/2011/04/the-turnpike-troubadours-5xf-180x180.jpg",
 			"rank": 50,
-			"last_week_rank": 40,
+			"last_week_rank": 50,
 			"peak_rank": 0,
-			"weeks_on_chart": 10,
+			"weeks_on_chart": 19,
 			"spotify_data": {
-				"artistQueried": "Carly Pearce",
-				"id": "5u4PukbCMvkFuL3RhKTzhO",
-				"name": "Dream Come True",
+				"artistQueried": "Turnpike Troubadours",
+				"id": "66Mk4Rd6A08oa6bF27uQxj",
+				"name": "Heaven Passing Through",
 				"artists": [
-					"Carly Pearce"
+					"Turnpike Troubadours"
 				],
-				"album_name": "Dream Come True",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "QZRD92508071",
-				"preview": "Not found"
+				"album_name": "The Price of Admission",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QM6MZ2547789",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/7e/ae/cb7eae86-04ce-6b67-8760-b6d30bb00039/mzaf_1450301818842648366.plus.aac.p.m4a"
 			}
 		},
 		{
-			"name": "Make A Liar",
-			"artist": "Jackson Dean",
-			"image": "https://charts-static.billboard.com/img/2022/03/jacksondean-9lx-180x180.jpg",
+			"name": "Water At A Wedding",
+			"artist": "Greylan James",
+			"image": "https://charts-static.billboard.com/img/2025/08/greylanjames-000-wateratawedding-30y-180x180.jpg",
 			"rank": 51,
 			"last_week_rank": 51,
 			"peak_rank": 0,
-			"weeks_on_chart": 2,
+			"weeks_on_chart": 5,
 			"spotify_data": {
-				"artistQueried": "Jackson Dean",
-				"id": "2pZ1fFixYIRvtrJlP7uQz1",
-				"name": "Make A Liar",
+				"artistQueried": "Greylan James",
+				"id": "3l6d8dxIzl47flROA7KglW",
+				"name": "Water At A Wedding",
 				"artists": [
-					"Jackson Dean"
+					"Greylan James"
 				],
-				"album_name": "Make A Liar",
+				"album_name": "Water At A Wedding",
 				"type": "single",
 				"artistMatch": "step1 (single)",
-				"isrc": "QZRD92507720",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/80/e8/5080e8f5-1f52-4fbc-1b25-be450003fa10/mzaf_15865639007958491446.plus.aac.p.m4a"
+				"isrc": "QZRD92507314",
+				"preview": "Not found"
 			}
 		},
 		{
@@ -1100,7 +1100,7 @@
 			"rank": 52,
 			"last_week_rank": 52,
 			"peak_rank": 0,
-			"weeks_on_chart": 27,
+			"weeks_on_chart": 26,
 			"spotify_data": {
 				"artistQueried": "Mackenzie Carpenter",
 				"id": "3Tbgiz5i4bCjhqoeRd3Ejp",
@@ -1117,13 +1117,57 @@
 			}
 		},
 		{
-			"name": "Worth Your Wild",
-			"artist": "Russell Dickerson",
-			"image": "https://charts-static.billboard.com/img/2025/12/russell-dickerson-aem-worthyourwild-9jy-180x180.jpg",
+			"name": "Boots Off",
+			"artist": "Jon Pardi",
+			"image": "https://charts-static.billboard.com/img/2012/04/jon-pardi-f7y-180x180.jpg",
 			"rank": 53,
 			"last_week_rank": 53,
 			"peak_rank": 0,
-			"weeks_on_chart": 5,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Jon Pardi",
+				"id": "3MlvvRRwYfCpgIqUUPeYQ0",
+				"name": "Boots Off",
+				"artists": [
+					"Jon Pardi"
+				],
+				"album_name": "Honkytonk Hollywood",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USUM72412132",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Dream Come True",
+			"artist": "Carly Pearce",
+			"image": "https://charts-static.billboard.com/img/2025/11/carly-pearce-9t8-dreamcometrue-e2d-180x180.jpg",
+			"rank": 54,
+			"last_week_rank": 40,
+			"peak_rank": 0,
+			"weeks_on_chart": 9,
+			"spotify_data": {
+				"artistQueried": "Carly Pearce",
+				"id": "5u4PukbCMvkFuL3RhKTzhO",
+				"name": "Dream Come True",
+				"artists": [
+					"Carly Pearce"
+				],
+				"album_name": "Dream Come True",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "QZRD92508071",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Worth Your Wild",
+			"artist": "Russell Dickerson",
+			"image": "https://charts-static.billboard.com/img/2025/12/russell-dickerson-aem-worthyourwild-9jy-180x180.jpg",
+			"rank": 55,
+			"last_week_rank": 54,
+			"peak_rank": 0,
+			"weeks_on_chart": 4,
 			"spotify_data": {
 				"artistQueried": "Russell Dickerson",
 				"id": "67bIPJptdsuPeyOPv8z1lL",
@@ -1142,10 +1186,10 @@
 			"name": "Devil Ain't Done",
 			"artist": "Atlus",
 			"image": "https://charts-static.billboard.com/img/2025/11/atlus-4gp-devilaintdone-i16-180x180.jpg",
-			"rank": 54,
-			"last_week_rank": 54,
+			"rank": 56,
+			"last_week_rank": 55,
 			"peak_rank": 0,
-			"weeks_on_chart": 8,
+			"weeks_on_chart": 7,
 			"spotify_data": {
 				"artistQueried": "Atlus",
 				"id": "5mv5HTiMbXN9TJFN79W9UH",
@@ -1161,69 +1205,25 @@
 			}
 		},
 		{
-			"name": "Gary",
-			"artist": "Stephen Wilson Jr.",
-			"image": "https://charts-static.billboard.com/img/2025/01/stephenwilsonjr-pml-180x180.jpg",
-			"rank": 55,
-			"last_week_rank": 55,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Stephen Wilson Jr.",
-				"id": "5HMmz01XM5IYaGP0KSsDvQ",
-				"name": "Gary",
-				"artists": [
-					"Stephen Wilson Jr."
-				],
-				"album_name": "Gary",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "USUG12509803",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Highs & Lows",
-			"artist": "Matt Cooper",
-			"image": "https://charts-static.billboard.com/img/2025/12/mattcooper-1b9-highslows-w5y-180x180.jpg",
-			"rank": 56,
-			"last_week_rank": 56,
-			"peak_rank": 0,
-			"weeks_on_chart": 3,
-			"spotify_data": {
-				"artistQueried": "Matt Cooper",
-				"id": "1YU3VIWlOsVV715CifjP9R",
-				"name": "Highs & Lows",
-				"artists": [
-					"Matt Cooper"
-				],
-				"album_name": "Highs & Lows",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "QZNWV2431794",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Never Comin' Back",
-			"artist": "Flatland Cavalry",
-			"image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+			"name": "We Can Always Move On",
+			"artist": "Cole Swindell",
+			"image": "https://charts-static.billboard.com/img/2025/08/cole-swindell-rll-wecanalwaysmoveon-1ix-180x180.jpg",
 			"rank": 57,
-			"last_week_rank": 57,
+			"last_week_rank": 50,
 			"peak_rank": 0,
-			"weeks_on_chart": 1,
+			"weeks_on_chart": 20,
 			"spotify_data": {
-				"artistQueried": "Flatland Cavalry",
-				"id": "1wQaPoRJ0Ip6MtNxTlA3SY",
-				"name": "Never Comin' Back",
+				"artistQueried": "Cole Swindell",
+				"id": "1hNGIooJpRfYbzZa01kCiB",
+				"name": "We Can Always Move On",
 				"artists": [
-					"Flatland Cavalry"
+					"Cole Swindell"
 				],
-				"album_name": "Never Comin' Back",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "USUG12509600",
-				"preview": "Not found"
+				"album_name": "Spanish Moss",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USWB12500905",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/8a/99/a28a9956-7d2c-8433-b9f7-b8071812dd02/mzaf_997777410965656191.plus.aac.p.m4a"
 			}
 		},
 		{
@@ -1233,7 +1233,7 @@
 			"rank": 58,
 			"last_week_rank": 58,
 			"peak_rank": 0,
-			"weeks_on_chart": 3,
+			"weeks_on_chart": 2,
 			"spotify_data": {
 				"artistQueried": "Drew Baldridge",
 				"id": "253naEqCmMp9fk6oHTdQlG",
@@ -1249,47 +1249,47 @@
 			}
 		},
 		{
-			"name": "Holdin' It Down",
-			"artist": "Chase Matthew",
-			"image": "https://charts-static.billboard.com/img/2021/07/chasematthew-iyz-180x180.jpg",
+			"name": "Highs & Lows",
+			"artist": "Matt Cooper",
+			"image": "https://charts-static.billboard.com/img/2025/12/mattcooper-1b9-highslows-w5y-180x180.jpg",
 			"rank": 59,
-			"last_week_rank": 59,
+			"last_week_rank": 58,
 			"peak_rank": 0,
-			"weeks_on_chart": 1,
+			"weeks_on_chart": 2,
 			"spotify_data": {
-				"artistQueried": "Chase Matthew",
-				"id": "3tkfOtsySCFzQkNZSWOYcP",
-				"name": "Holdin' It Down",
+				"artistQueried": "Matt Cooper",
+				"id": "1YU3VIWlOsVV715CifjP9R",
+				"name": "Highs & Lows",
 				"artists": [
-					"Chase Matthew"
+					"Matt Cooper"
 				],
-				"album_name": "Holdin' It Down",
+				"album_name": "Highs & Lows",
 				"type": "single",
 				"artistMatch": "step1 (single)",
-				"isrc": "USWB12504406",
+				"isrc": "QZNWV2431794",
 				"preview": "Not found"
 			}
 		},
 		{
-			"name": "Keeps Me Sane",
-			"artist": "Tyler Nance",
-			"image": "https://charts-static.billboard.com/img/2025/08/tylernance-nd4-keepsmesane-s0x-180x180.jpg",
+			"name": "Make A Liar",
+			"artist": "Jackson Dean",
+			"image": "https://charts-static.billboard.com/img/2022/03/jacksondean-9lx-180x180.jpg",
 			"rank": 60,
 			"last_week_rank": 60,
 			"peak_rank": 0,
 			"weeks_on_chart": 1,
 			"spotify_data": {
-				"artistQueried": "Tyler Nance",
-				"id": "5ivClJh64rX5PvFeyqI4Ew",
-				"name": "Keeps Me Sane",
+				"artistQueried": "Jackson Dean",
+				"id": "2pZ1fFixYIRvtrJlP7uQz1",
+				"name": "Make A Liar",
 				"artists": [
-					"Tyler Nance"
+					"Jackson Dean"
 				],
-				"album_name": "Keeps Me Sane",
+				"album_name": "Make A Liar",
 				"type": "single",
 				"artistMatch": "step1 (single)",
-				"isrc": "USLD91779673",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/4b/94/954b94bc-b703-d3a5-033b-5bf677c4dfdb/mzaf_2686298479732794054.plus.aac.p.m4a"
+				"isrc": "QZRD92507720",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/80/e8/5080e8f5-1f52-4fbc-1b25-be450003fa10/mzaf_15865639007958491446.plus.aac.p.m4a"
 			}
 		}
 	]
