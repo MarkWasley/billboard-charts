@@ -1,5 +1,5 @@
 {
-	"date": "2026-04-25",
+	"date": "2026-05-02",
 	"entries": [
 		{
 			"name": "Choosin' Texas",
@@ -8,7 +8,7 @@
 			"rank": 1,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 26,
+			"weeks_on_chart": 27,
 			"spotify_data": {
 				"artistQueried": "Ella Langley",
 				"id": "7scFxt9VhL4FJwuPSfRlfN",
@@ -30,7 +30,7 @@
 			"rank": 2,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 9,
+			"weeks_on_chart": 10,
 			"spotify_data": {
 				"artistQueried": "Ella Langley",
 				"id": "13HD3tYTiz8oSRxWzXEq7g",
@@ -52,7 +52,7 @@
 			"rank": 3,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 15,
+			"weeks_on_chart": 16,
 			"spotify_data": {
 				"artistQueried": "Luke Combs",
 				"id": "0y0W8zIjxv0swTYlg450tP",
@@ -68,57 +68,13 @@
 			}
 		},
 		{
-			"name": "Bottom Of Your Boots",
-			"artist": "Ella Langley",
-			"image": null,
-			"rank": 4,
-			"last_week_rank": 4,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "0hv6276QhpMDnVJIMxEWPH",
-				"name": "Bottom Of Your Boots",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600144",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Loving Life Again",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 5,
-			"last_week_rank": 5,
-			"peak_rank": 0,
-			"weeks_on_chart": 4,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "7sSmQ1OuQqmOabSxLnOnT5",
-				"name": "Loving Life Again",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600143",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "Be By You",
 			"artist": "Luke Combs",
-			"image": "https://charts-static.billboard.com/img/2015/07/luke-combs-vjy-180x180.jpg",
-			"rank": 6,
+			"image": null,
+			"rank": 4,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 9,
+			"weeks_on_chart": 10,
 			"spotify_data": {
 				"artistQueried": "Luke Combs",
 				"id": "67Ar9BnEeB5FU5vQBYhbGe",
@@ -137,10 +93,10 @@
 			"name": "I Got Better",
 			"artist": "Morgan Wallen",
 			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-igotbetter-8s9-180x180.jpg",
-			"rank": 7,
+			"rank": 5,
 			"last_week_rank": 1,
 			"peak_rank": 0,
-			"weeks_on_chart": 48,
+			"weeks_on_chart": 49,
 			"spotify_data": {
 				"artistQueried": "Morgan Wallen",
 				"id": "4gfrYDtaRmp6HPvN80V2ob",
@@ -156,35 +112,13 @@
 			}
 		},
 		{
-			"name": "Dandelion",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2026/02/ellalangley-0yx-dandelion-fzh-180x180.jpg",
-			"rank": 8,
-			"last_week_rank": 7,
-			"peak_rank": 0,
-			"weeks_on_chart": 11,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "34D5CH3DKBGpAj8ktFOAUH",
-				"name": "Dandelion",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600138",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "20 Cigarettes",
 			"artist": "Morgan Wallen",
 			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-20cigarettes-37w-180x180.jpg",
-			"rank": 9,
+			"rank": 6,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 48,
+			"weeks_on_chart": 49,
 			"spotify_data": {
 				"artistQueried": "Morgan Wallen",
 				"id": "0YsIYFRoxkmEvbKCwTp0Tg",
@@ -203,10 +137,10 @@
 			"name": "The Fall",
 			"artist": "Cody Johnson",
 			"image": "https://charts-static.billboard.com/img/2025/05/cody-johnson-eoy-thefall-rvi-180x180.jpg",
-			"rank": 10,
+			"rank": 7,
 			"last_week_rank": 7,
 			"peak_rank": 0,
-			"weeks_on_chart": 40,
+			"weeks_on_chart": 41,
 			"spotify_data": {
 				"artistQueried": "Cody Johnson",
 				"id": "4QpuZ1Qbcd11aOtY1kGMRg",
@@ -222,13 +156,57 @@
 			}
 		},
 		{
+			"name": "Loving Life Again",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 8,
+			"last_week_rank": 5,
+			"peak_rank": 0,
+			"weeks_on_chart": 5,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "7sSmQ1OuQqmOabSxLnOnT5",
+				"name": "Loving Life Again",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600143",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Bottom Of Your Boots",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 9,
+			"last_week_rank": 4,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "0hv6276QhpMDnVJIMxEWPH",
+				"name": "Bottom Of Your Boots",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600144",
+				"preview": "Not found"
+			}
+		},
+		{
 			"name": "Change My Mind",
 			"artist": "Riley Green",
 			"image": "https://charts-static.billboard.com/img/2025/07/riley-green-flo-changemymind-xi7-180x180.jpg",
-			"rank": 11,
+			"rank": 10,
 			"last_week_rank": 8,
 			"peak_rank": 0,
-			"weeks_on_chart": 19,
+			"weeks_on_chart": 20,
 			"spotify_data": {
 				"artistQueried": "Riley Green",
 				"id": "6puede6hRbNP5SdPmS2PT0",
@@ -244,13 +222,35 @@
 			}
 		},
 		{
+			"name": "Dandelion",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2026/02/ellalangley-0yx-dandelion-fzh-180x180.jpg",
+			"rank": 11,
+			"last_week_rank": 7,
+			"peak_rank": 0,
+			"weeks_on_chart": 12,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "34D5CH3DKBGpAj8ktFOAUH",
+				"name": "Dandelion",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600138",
+				"preview": "Not found"
+			}
+		},
+		{
 			"name": "I Ain't Coming Back",
 			"artist": "Morgan Wallen Featuring Post Malone",
 			"image": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg",
 			"rank": 12,
 			"last_week_rank": 3,
 			"peak_rank": 0,
-			"weeks_on_chart": 52,
+			"weeks_on_chart": 53,
 			"spotify_data": null
 		},
 		{
@@ -260,7 +260,7 @@
 			"rank": 13,
 			"last_week_rank": 9,
 			"peak_rank": 0,
-			"weeks_on_chart": 28,
+			"weeks_on_chart": 29,
 			"spotify_data": {
 				"artistQueried": "Luke Combs",
 				"id": "0aPgAvLQZNqfLDMrXv0IPE",
@@ -276,13 +276,35 @@
 			}
 		},
 		{
+			"name": "Boston",
+			"artist": "Stella Lefty",
+			"image": "https://charts-static.billboard.com/img/2026/04/stellalefty-000-boston-97g-180x180.jpg",
+			"rank": 14,
+			"last_week_rank": 14,
+			"peak_rank": 0,
+			"weeks_on_chart": 3,
+			"spotify_data": {
+				"artistQueried": "Stella Lefty",
+				"id": "36idurZmYRjJ56KQ8JD9bN",
+				"name": "Boston",
+				"artists": [
+					"STELLA LEFTY"
+				],
+				"album_name": "Boston",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "QZJ842603468",
+				"preview": "Not found"
+			}
+		},
+		{
 			"name": "Brunette",
 			"artist": "Tucker Wetmore",
 			"image": "https://charts-static.billboard.com/img/2024/03/tuckerwetmore-ras-180x180.jpg",
-			"rank": 14,
+			"rank": 15,
 			"last_week_rank": 10,
 			"peak_rank": 0,
-			"weeks_on_chart": 38,
+			"weeks_on_chart": 39,
 			"spotify_data": {
 				"artistQueried": "Tucker Wetmore",
 				"id": "21T9HvQ0KUWFDum6P1Qc7i",
@@ -298,101 +320,13 @@
 			}
 		},
 		{
-			"name": "Broken",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 15,
-			"last_week_rank": 15,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "65t42trkFQjspA3vzjl7bF",
-				"name": "Broken",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600149",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "We Know Us",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 16,
-			"last_week_rank": 16,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "7ks1bfjmiJZjug0jjyQDYt",
-				"name": "We Know Us",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600139",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "You & Me Time",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 17,
-			"last_week_rank": 17,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "0zwYtowNHP3r9DUHjo6AZl",
-				"name": "You & Me Time",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600142",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "What He'll Never Have",
-			"artist": "Dylan Scott",
-			"image": "https://charts-static.billboard.com/img/2024/04/dylan-scott-pnf-whathellneverhave-kmw-180x180.jpg",
-			"rank": 18,
-			"last_week_rank": 16,
-			"peak_rank": 0,
-			"weeks_on_chart": 44,
-			"spotify_data": {
-				"artistQueried": "Dylan Scott",
-				"id": "61SRKyox0R9jCzci4JXKBS",
-				"name": "What He'll Never Have",
-				"artists": [
-					"Dylan Scott"
-				],
-				"album_name": "Livin' My Best Life (Still)",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USCRB2400015",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e3/85/7d/e3857ddf-322a-91e4-ea8f-141e567701de/mzaf_9063267300767826187.plus.aac.p.m4a"
-			}
-		},
-		{
 			"name": "McArthur",
 			"artist": "HARDY, Eric Church, Morgan Wallen & Tim McGraw",
 			"image": "https://charts-static.billboard.com/img/2026/02/hardy-rmc-mcarthur-9po-180x180.jpg",
-			"rank": 19,
+			"rank": 16,
 			"last_week_rank": 6,
 			"peak_rank": 0,
-			"weeks_on_chart": 11,
+			"weeks_on_chart": 12,
 			"spotify_data": {
 				"artistQueried": "HARDY",
 				"id": "6yOHshc12fwMtM74xoy4je",
@@ -411,68 +345,24 @@
 			}
 		},
 		{
-			"name": "Boston",
-			"artist": "Stella Lefty",
-			"image": "https://charts-static.billboard.com/img/2026/04/stellalefty-000-boston-97g-180x180.jpg",
-			"rank": 20,
-			"last_week_rank": 20,
+			"name": "Don't We",
+			"artist": "Morgan Wallen",
+			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg",
+			"rank": 17,
+			"last_week_rank": 17,
 			"peak_rank": 0,
-			"weeks_on_chart": 2,
+			"weeks_on_chart": 24,
 			"spotify_data": {
-				"artistQueried": "Stella Lefty",
-				"id": "36idurZmYRjJ56KQ8JD9bN",
-				"name": "Boston",
+				"artistQueried": "Morgan Wallen",
+				"id": "45UDzIWgqj5hgQKXLlfdp7",
+				"name": "Don't We",
 				"artists": [
-					"STELLA LEFTY"
+					"Morgan Wallen"
 				],
-				"album_name": "Boston",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "QZJ842603468",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Low Lights",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 21,
-			"last_week_rank": 21,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "1yPfHKF0zxjDZt58hxhTxe",
-				"name": "Low Lights",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
+				"album_name": "I’m The Problem",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600140",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Speaking Terms",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 22,
-			"last_week_rank": 22,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "3run9sUbpxozM6Cw0k3VfA",
-				"name": "Speaking Terms",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600145",
+				"isrc": "USUG12501617",
 				"preview": "Not found"
 			}
 		},
@@ -480,10 +370,10 @@
 			"name": "Turn This Truck Around",
 			"artist": "Jordan Davis",
 			"image": "https://charts-static.billboard.com/img/2025/09/jordan-davis-wxd-turnthistruckaround-jhc-180x180.jpg",
-			"rank": 23,
+			"rank": 18,
 			"last_week_rank": 18,
 			"peak_rank": 0,
-			"weeks_on_chart": 19,
+			"weeks_on_chart": 20,
 			"spotify_data": {
 				"artistQueried": "Jordan Davis",
 				"id": "26me6ABXv5sHTe6eriudll",
@@ -502,10 +392,10 @@
 			"name": "Beautiful Things",
 			"artist": "Megan Moroney",
 			"image": "https://charts-static.billboard.com/img/2025/11/meganmoroney-ugl-beautifulthings-3dm-180x180.jpg",
-			"rank": 24,
+			"rank": 19,
 			"last_week_rank": 8,
 			"peak_rank": 0,
-			"weeks_on_chart": 25,
+			"weeks_on_chart": 26,
 			"spotify_data": {
 				"artistQueried": "Megan Moroney",
 				"id": "6nImybWzraGrI7B2xNWwSV",
@@ -521,24 +411,210 @@
 			}
 		},
 		{
-			"name": "Don't We",
-			"artist": "Morgan Wallen",
-			"image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg",
-			"rank": 25,
-			"last_week_rank": 20,
+			"name": "Dry Spell",
+			"artist": "Kacey Musgraves",
+			"image": "https://charts-static.billboard.com/img/2010/12/kacey-musgraves-eao-180x180.jpg",
+			"rank": 20,
+			"last_week_rank": 15,
 			"peak_rank": 0,
-			"weeks_on_chart": 23,
+			"weeks_on_chart": 6,
 			"spotify_data": {
-				"artistQueried": "Morgan Wallen",
-				"id": "45UDzIWgqj5hgQKXLlfdp7",
-				"name": "Don't We",
+				"artistQueried": "Kacey Musgraves",
+				"id": "3q5qgzl5xwEtbrZVi3agEJ",
+				"name": "Dry Spell",
 				"artists": [
-					"Morgan Wallen"
+					"Kacey Musgraves"
 				],
-				"album_name": "I’m The Problem",
+				"album_name": "Dry Spell",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USUG12510467",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Broken",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 21,
+			"last_week_rank": 15,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "65t42trkFQjspA3vzjl7bF",
+				"name": "Broken",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "USUG12501617",
+				"isrc": "USSM12600149",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Hate How You Look",
+			"artist": "Josh Ross",
+			"image": "https://charts-static.billboard.com/img/2025/05/joshross-5c2-hatehowyoulook-33g-180x180.jpg",
+			"rank": 22,
+			"last_week_rank": 22,
+			"peak_rank": 0,
+			"weeks_on_chart": 9,
+			"spotify_data": {
+				"artistQueried": "Josh Ross",
+				"id": "7BQfK4lzF7rUBaxTh5V3qv",
+				"name": "Hate How You Look",
+				"artists": [
+					"Josh Ross"
+				],
+				"album_name": "Later Tonight",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "CAUM72500061",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/ed/3d/bded3dc8-5b15-ef95-c347-154558c35fc7/mzaf_1699111279226760870.plus.aac.p.m4a"
+			}
+		},
+		{
+			"name": "You & Me Time",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 23,
+			"last_week_rank": 17,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "0zwYtowNHP3r9DUHjo6AZl",
+				"name": "You & Me Time",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600142",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Rethink Some Things",
+			"artist": "Luke Combs",
+			"image": "https://charts-static.billboard.com/img/2026/04/luke-combs-vjy-180x180.jpg",
+			"rank": 24,
+			"last_week_rank": 11,
+			"peak_rank": 0,
+			"weeks_on_chart": 5,
+			"spotify_data": {
+				"artistQueried": "Luke Combs",
+				"id": "5LNgnMLXaoG9KRkL47KlZu",
+				"name": "Rethink Some Things",
+				"artists": [
+					"Luke Combs"
+				],
+				"album_name": "The Way I Am",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "US6XF2500097",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Don't Tell On Me",
+			"artist": "Jason Aldean",
+			"image": "https://charts-static.billboard.com/img/2026/03/jason-aldean-pzx-donttellonme-6tw-180x180.jpg",
+			"rank": 25,
+			"last_week_rank": 25,
+			"peak_rank": 0,
+			"weeks_on_chart": 8,
+			"spotify_data": {
+				"artistQueried": "Jason Aldean",
+				"id": "4nQddnOEoSAxKMYQD6tskw",
+				"name": "Don’t Tell On Me",
+				"artists": [
+					"Jason Aldean"
+				],
+				"album_name": "Songs About Us",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "QMRSZ2501944",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Woman",
+			"artist": "Kane Brown",
+			"image": "https://charts-static.billboard.com/img/2026/03/kane-brown-ag5-woman-buw-180x180.jpg",
+			"rank": 26,
+			"last_week_rank": 26,
+			"peak_rank": 0,
+			"weeks_on_chart": 6,
+			"spotify_data": {
+				"artistQueried": "Kane Brown",
+				"id": "7lJv6f6HBpUoLBnM0RxuKB",
+				"name": "Woman",
+				"artists": [
+					"Kane Brown"
+				],
+				"album_name": "Woman",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "US6XF2600038",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "I Want You",
+			"artist": "Cody Johnson",
+			"image": "https://charts-static.billboard.com/img/2014/02/cody-johnson-eoy-180x180.jpg",
+			"rank": 27,
+			"last_week_rank": 27,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Cody Johnson",
+				"id": "12c5b7YmtMPxWnAgSql0sb",
+				"name": "I Want You",
+				"artists": [
+					"Cody Johnson"
+				],
+				"album_name": "I Want You",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USWB12600954",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Rocky Mountain Low",
+			"artist": "Corey Kent & Koe Wetzel",
+			"image": "https://charts-static.billboard.com/img/2025/12/coreykent-jip-rockymountainlow-d6t-180x180.jpg",
+			"rank": 28,
+			"last_week_rank": 25,
+			"peak_rank": 0,
+			"weeks_on_chart": 17,
+			"spotify_data": null
+		},
+		{
+			"name": "We Know Us",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 29,
+			"last_week_rank": 16,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "7ks1bfjmiJZjug0jjyQDYt",
+				"name": "We Know Us",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600139",
 				"preview": "Not found"
 			}
 		},
@@ -546,10 +622,10 @@
 			"name": "Butterfly Season",
 			"artist": "Ella Langley & Miranda Lambert",
 			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 26,
+			"rank": 30,
 			"last_week_rank": 26,
 			"peak_rank": 0,
-			"weeks_on_chart": 1,
+			"weeks_on_chart": 2,
 			"spotify_data": {
 				"artistQueried": "Ella Langley",
 				"id": "37kzuSrUdgkC3X22F0bLbw",
@@ -566,188 +642,24 @@
 			}
 		},
 		{
-			"name": "Dry Spell",
-			"artist": "Kacey Musgraves",
-			"image": "https://charts-static.billboard.com/img/2010/12/kacey-musgraves-eao-180x180.jpg",
-			"rank": 27,
-			"last_week_rank": 15,
-			"peak_rank": 0,
-			"weeks_on_chart": 5,
-			"spotify_data": {
-				"artistQueried": "Kacey Musgraves",
-				"id": "3q5qgzl5xwEtbrZVi3agEJ",
-				"name": "Dry Spell",
-				"artists": [
-					"Kacey Musgraves"
-				],
-				"album_name": "Dry Spell",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "USUG12510467",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Somethin' Simple",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 28,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "20JeURYv42W2DxiRraVdjJ",
-				"name": "Somethin' Simple",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600150",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Last Call For Us",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 29,
-			"last_week_rank": 29,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "6IA0rcSyIbjZBrA4Vq0cr6",
-				"name": "Last Call For Us",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600148",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Rethink Some Things",
-			"artist": "Luke Combs",
-			"image": "https://charts-static.billboard.com/img/2026/04/luke-combs-vjy-180x180.jpg",
-			"rank": 30,
-			"last_week_rank": 11,
-			"peak_rank": 0,
-			"weeks_on_chart": 4,
-			"spotify_data": {
-				"artistQueried": "Luke Combs",
-				"id": "5LNgnMLXaoG9KRkL47KlZu",
-				"name": "Rethink Some Things",
-				"artists": [
-					"Luke Combs"
-				],
-				"album_name": "The Way I Am",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "US6XF2500097",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "I Gotta Quit",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"name": "My Way",
+			"artist": "Riley Green",
+			"image": "https://charts-static.billboard.com/img/2026/05/riley-green-flo-myway-xa6-180x180.jpg",
 			"rank": 31,
 			"last_week_rank": 31,
 			"peak_rank": 0,
 			"weeks_on_chart": 1,
 			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "6qFuapeZY7rCfMDtY74K3Z",
-				"name": "I Gotta Quit",
+				"artistQueried": "Riley Green",
+				"id": "0e5adFzW2uzQQ8M0cjiQqX",
+				"name": "My Way",
 				"artists": [
-					"Ella Langley"
+					"Riley Green"
 				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600146",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "It Wasn't God Who Made Honky Tonk Angels",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 32,
-			"last_week_rank": 32,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "4T7QaGCE1dlt1kdX6VZYKo",
-				"name": "It Wasn't God Who Made Honky Tonk Angels",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "Dandelion",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12600147",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Hate How You Look",
-			"artist": "Josh Ross",
-			"image": "https://charts-static.billboard.com/img/2025/05/joshross-5c2-hatehowyoulook-33g-180x180.jpg",
-			"rank": 33,
-			"last_week_rank": 27,
-			"peak_rank": 0,
-			"weeks_on_chart": 8,
-			"spotify_data": {
-				"artistQueried": "Josh Ross",
-				"id": "7BQfK4lzF7rUBaxTh5V3qv",
-				"name": "Hate How You Look",
-				"artists": [
-					"Josh Ross"
-				],
-				"album_name": "Later Tonight",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "CAUM72500061",
-				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/ed/3d/bded3dc8-5b15-ef95-c347-154558c35fc7/mzaf_1699111279226760870.plus.aac.p.m4a"
-			}
-		},
-		{
-			"name": "Rocky Mountain Low",
-			"artist": "Corey Kent & Koe Wetzel",
-			"image": "https://charts-static.billboard.com/img/2025/12/coreykent-jip-rockymountainlow-d6t-180x180.jpg",
-			"rank": 34,
-			"last_week_rank": 25,
-			"peak_rank": 0,
-			"weeks_on_chart": 16,
-			"spotify_data": null
-		},
-		{
-			"name": "Don't Tell On Me",
-			"artist": "Jason Aldean",
-			"image": "https://charts-static.billboard.com/img/2026/03/jason-aldean-pzx-donttellonme-6tw-180x180.jpg",
-			"rank": 35,
-			"last_week_rank": 32,
-			"peak_rank": 0,
-			"weeks_on_chart": 7,
-			"spotify_data": {
-				"artistQueried": "Jason Aldean",
-				"id": "2yM6Cs4w85hn1HtBTnxEKn",
-				"name": "Don’t Tell On Me",
-				"artists": [
-					"Jason Aldean"
-				],
-				"album_name": "Don't Tell On Me",
+				"album_name": "My Way",
 				"type": "single",
 				"artistMatch": "step1 (single)",
-				"isrc": "QMRSZ2501944",
+				"isrc": "QZRD92608789",
 				"preview": "Not found"
 			}
 		},
@@ -755,10 +667,10 @@
 			"name": "Plastic Cigarette",
 			"artist": "Zach Bryan",
 			"image": "https://charts-static.billboard.com/img/2019/09/zachbryan-bqn-180x180.jpg",
-			"rank": 36,
+			"rank": 32,
 			"last_week_rank": 2,
 			"peak_rank": 0,
-			"weeks_on_chart": 14,
+			"weeks_on_chart": 15,
 			"spotify_data": {
 				"artistQueried": "Zach Bryan",
 				"id": "2jCJjRc9mz6VYBMhLy3H9i",
@@ -774,67 +686,13 @@
 			}
 		},
 		{
-			"name": "Woman",
-			"artist": "Kane Brown",
-			"image": "https://charts-static.billboard.com/img/2026/03/kane-brown-ag5-woman-buw-180x180.jpg",
-			"rank": 37,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 5,
-			"spotify_data": {
-				"artistQueried": "Kane Brown",
-				"id": "7lJv6f6HBpUoLBnM0RxuKB",
-				"name": "Woman",
-				"artists": [
-					"Kane Brown"
-				],
-				"album_name": "Woman",
-				"type": "single",
-				"artistMatch": "step1 (single)",
-				"isrc": "US6XF2600038",
-				"preview": "Not found"
-			}
-		},
-		{
-			"name": "Most Good Things Do (Acoustic)",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
-			"rank": 38,
-			"last_week_rank": 38,
-			"peak_rank": 0,
-			"weeks_on_chart": 1,
-			"spotify_data": null
-		},
-		{
-			"name": "Girl You're Taking Home",
-			"artist": "Ella Langley",
-			"image": "https://charts-static.billboard.com/img/2025/07/ellalangley-yci-180x180.jpg",
-			"rank": 39,
-			"last_week_rank": 28,
-			"peak_rank": 0,
-			"weeks_on_chart": 19,
-			"spotify_data": {
-				"artistQueried": "Ella Langley",
-				"id": "13TtTCE6v8vwTSgWJPjwLl",
-				"name": "girl you're taking home",
-				"artists": [
-					"Ella Langley"
-				],
-				"album_name": "still hungover",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USSM12403680",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "Empty Words",
 			"artist": "Corey Kent",
 			"image": "https://charts-static.billboard.com/img/2026/03/coreykent-jip-emptywords-w9w-180x180.jpg",
-			"rank": 40,
-			"last_week_rank": 35,
+			"rank": 33,
+			"last_week_rank": 33,
 			"peak_rank": 0,
-			"weeks_on_chart": 6,
+			"weeks_on_chart": 7,
 			"spotify_data": {
 				"artistQueried": "Corey Kent",
 				"id": "42Zw3Z5xOv7bTV6C6PVwRg",
@@ -853,10 +711,10 @@
 			"name": "South Of Sanity",
 			"artist": "Zach Top",
 			"image": "https://charts-static.billboard.com/img/2025/08/zachtop-7m8-southofsanity-4jj-180x180.jpg",
-			"rank": 41,
+			"rank": 34,
 			"last_week_rank": 28,
 			"peak_rank": 0,
-			"weeks_on_chart": 35,
+			"weeks_on_chart": 36,
 			"spotify_data": {
 				"artistQueried": "Zach Top",
 				"id": "0hc2s7sbPTomegDXpIySok",
@@ -875,10 +733,10 @@
 			"name": "Can't Sit Still",
 			"artist": "Lainey Wilson",
 			"image": "https://charts-static.billboard.com/img/2026/03/lainey-wilson-wci-cantsitstill-rm2-180x180.jpg",
-			"rank": 42,
+			"rank": 35,
 			"last_week_rank": 26,
 			"peak_rank": 0,
-			"weeks_on_chart": 5,
+			"weeks_on_chart": 6,
 			"spotify_data": {
 				"artistQueried": "Lainey Wilson",
 				"id": "024avm1IHjbHmvpFQyl38J",
@@ -894,46 +752,90 @@
 			}
 		},
 		{
-			"name": "Wish I Didn't",
-			"artist": "Megan Moroney",
-			"image": "https://charts-static.billboard.com/img/2022/09/meganmoroney-ugl-180x180.jpg",
-			"rank": 43,
-			"last_week_rank": 12,
+			"name": "Somethin' Simple",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 36,
+			"last_week_rank": 28,
 			"peak_rank": 0,
-			"weeks_on_chart": 13,
+			"weeks_on_chart": 2,
 			"spotify_data": {
-				"artistQueried": "Megan Moroney",
-				"id": "2qX8A5UFLm1cKUuB229jl3",
-				"name": "Wish I Didn't",
+				"artistQueried": "Ella Langley",
+				"id": "20JeURYv42W2DxiRraVdjJ",
+				"name": "Somethin' Simple",
 				"artists": [
-					"Megan Moroney"
+					"Ella Langley"
 				],
-				"album_name": "Cloud 9",
+				"album_name": "Dandelion",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "USQX92506285",
+				"isrc": "USSM12600150",
 				"preview": "Not found"
 			}
 		},
 		{
-			"name": "Say Why",
-			"artist": "Zach Bryan",
-			"image": "https://charts-static.billboard.com/img/2019/09/zachbryan-bqn-180x180.jpg",
-			"rank": 44,
-			"last_week_rank": 7,
+			"name": "Speaking Terms",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 37,
+			"last_week_rank": 22,
 			"peak_rank": 0,
-			"weeks_on_chart": 14,
+			"weeks_on_chart": 2,
 			"spotify_data": {
-				"artistQueried": "Zach Bryan",
-				"id": "0BUvxX1tTOSJcsn6Y24Bsp",
-				"name": "Say Why",
+				"artistQueried": "Ella Langley",
+				"id": "3run9sUbpxozM6Cw0k3VfA",
+				"name": "Speaking Terms",
 				"artists": [
-					"Zach Bryan"
+					"Ella Langley"
 				],
-				"album_name": "With Heaven On Top",
+				"album_name": "Dandelion",
 				"type": "album",
 				"artistMatch": "step1 (album)",
-				"isrc": "USWB12600005",
+				"isrc": "USSM12600145",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Low Lights",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 38,
+			"last_week_rank": 21,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "1yPfHKF0zxjDZt58hxhTxe",
+				"name": "Low Lights",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600140",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Girl You're Taking Home",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2025/07/ellalangley-yci-180x180.jpg",
+			"rank": 39,
+			"last_week_rank": 28,
+			"peak_rank": 0,
+			"weeks_on_chart": 20,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "13TtTCE6v8vwTSgWJPjwLl",
+				"name": "girl you're taking home",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "still hungover",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12403680",
 				"preview": "Not found"
 			}
 		},
@@ -941,10 +843,10 @@
 			"name": "Painted You Pretty",
 			"artist": "Hudson Westbrook",
 			"image": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-180x180.jpg",
-			"rank": 45,
+			"rank": 40,
 			"last_week_rank": 30,
 			"peak_rank": 0,
-			"weeks_on_chart": 27,
+			"weeks_on_chart": 28,
 			"spotify_data": {
 				"artistQueried": "Hudson Westbrook",
 				"id": "1b7M6dFwKxbnHs4PB8TgSH",
@@ -960,35 +862,13 @@
 			}
 		},
 		{
-			"name": "Wedding Dress",
-			"artist": "Megan Moroney",
-			"image": "https://charts-static.billboard.com/img/2022/09/meganmoroney-ugl-180x180.jpg",
-			"rank": 46,
-			"last_week_rank": 17,
-			"peak_rank": 0,
-			"weeks_on_chart": 8,
-			"spotify_data": {
-				"artistQueried": "Megan Moroney",
-				"id": "51o6ew28L60lB9HYX9tOgg",
-				"name": "Wedding Dress",
-				"artists": [
-					"Megan Moroney"
-				],
-				"album_name": "Cloud 9",
-				"type": "album",
-				"artistMatch": "step1 (album)",
-				"isrc": "USQX92506281",
-				"preview": "Not found"
-			}
-		},
-		{
 			"name": "Me & A Beer",
 			"artist": "Chris Janson",
 			"image": "https://charts-static.billboard.com/img/2025/05/chris-janson-w54-meabeer-yer-180x180.jpg",
-			"rank": 47,
+			"rank": 41,
 			"last_week_rank": 41,
 			"peak_rank": 0,
-			"weeks_on_chart": 7,
+			"weeks_on_chart": 8,
 			"spotify_data": {
 				"artistQueried": "Chris Janson",
 				"id": "1RP7p1PhMMUPB8FZwUxWAS",
@@ -1004,23 +884,89 @@
 			}
 		},
 		{
+			"name": "Say Why",
+			"artist": "Zach Bryan",
+			"image": "https://charts-static.billboard.com/img/2019/09/zachbryan-bqn-180x180.jpg",
+			"rank": 42,
+			"last_week_rank": 7,
+			"peak_rank": 0,
+			"weeks_on_chart": 15,
+			"spotify_data": {
+				"artistQueried": "Zach Bryan",
+				"id": "0BUvxX1tTOSJcsn6Y24Bsp",
+				"name": "Say Why",
+				"artists": [
+					"Zach Bryan"
+				],
+				"album_name": "With Heaven On Top",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USWB12600005",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Wish I Didn't",
+			"artist": "Megan Moroney",
+			"image": "https://charts-static.billboard.com/img/2022/09/meganmoroney-ugl-180x180.jpg",
+			"rank": 43,
+			"last_week_rank": 12,
+			"peak_rank": 0,
+			"weeks_on_chart": 14,
+			"spotify_data": {
+				"artistQueried": "Megan Moroney",
+				"id": "2qX8A5UFLm1cKUuB229jl3",
+				"name": "Wish I Didn't",
+				"artists": [
+					"Megan Moroney"
+				],
+				"album_name": "Cloud 9",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USQX92506285",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Wedding Dress",
+			"artist": "Megan Moroney",
+			"image": "https://charts-static.billboard.com/img/2022/09/meganmoroney-ugl-180x180.jpg",
+			"rank": 44,
+			"last_week_rank": 17,
+			"peak_rank": 0,
+			"weeks_on_chart": 9,
+			"spotify_data": {
+				"artistQueried": "Megan Moroney",
+				"id": "51o6ew28L60lB9HYX9tOgg",
+				"name": "Wedding Dress",
+				"artists": [
+					"Megan Moroney"
+				],
+				"album_name": "Cloud 9",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USQX92506281",
+				"preview": "Not found"
+			}
+		},
+		{
 			"name": "Message To You",
 			"artist": "Ty Myers",
 			"image": "https://charts-static.billboard.com/img/2024/10/tymyers-tki-180x180.jpg",
-			"rank": 48,
+			"rank": 45,
 			"last_week_rank": 32,
 			"peak_rank": 0,
-			"weeks_on_chart": 3,
+			"weeks_on_chart": 4,
 			"spotify_data": {
 				"artistQueried": "Ty Myers",
-				"id": "00asEdGggYrPYfLbDRI6HE",
+				"id": "2WSHB7XlCFBkegEZNVuFXb",
 				"name": "Message to You",
 				"artists": [
 					"Ty Myers"
 				],
-				"album_name": "Message to You",
-				"type": "single",
-				"artistMatch": "step1 (single)",
+				"album_name": "Heavy On The Soul",
+				"type": "album",
+				"artistMatch": "step1 (album)",
 				"isrc": "USQX92507009",
 				"preview": "Not found"
 			}
@@ -1029,10 +975,10 @@
 			"name": "Sunburn",
 			"artist": "Tucker Wetmore",
 			"image": "https://charts-static.billboard.com/img/2026/03/tuckerwetmore-ras-sunburn-26r-180x180.jpg",
-			"rank": 49,
+			"rank": 46,
 			"last_week_rank": 39,
 			"peak_rank": 0,
-			"weeks_on_chart": 5,
+			"weeks_on_chart": 6,
 			"spotify_data": {
 				"artistQueried": "Tucker Wetmore",
 				"id": "14xGdSrAmwpSz0TPTyx3yM",
@@ -1048,13 +994,79 @@
 			}
 		},
 		{
+			"name": "Last Call For Us",
+			"artist": "Ella Langley",
+			"image": "https://charts-static.billboard.com/img/2023/06/ellalangley-0yx-180x180.jpg",
+			"rank": 47,
+			"last_week_rank": 29,
+			"peak_rank": 0,
+			"weeks_on_chart": 2,
+			"spotify_data": {
+				"artistQueried": "Ella Langley",
+				"id": "6IA0rcSyIbjZBrA4Vq0cr6",
+				"name": "Last Call For Us",
+				"artists": [
+					"Ella Langley"
+				],
+				"album_name": "Dandelion",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USSM12600148",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Kingdom Of Fear",
+			"artist": "Cameron Whitcomb",
+			"image": "https://charts-static.billboard.com/img/2024/10/cameronwhitcomb-ycm-180x180.jpg",
+			"rank": 48,
+			"last_week_rank": 48,
+			"peak_rank": 0,
+			"weeks_on_chart": 1,
+			"spotify_data": {
+				"artistQueried": "Cameron Whitcomb",
+				"id": "4Es6f0zquGHCrv9Hespx9W",
+				"name": "Kingdom of Fear",
+				"artists": [
+					"Cameron Whitcomb"
+				],
+				"album_name": "Kingdom of Fear",
+				"type": "single",
+				"artistMatch": "step1 (single)",
+				"isrc": "USAT22601563",
+				"preview": "Not found"
+			}
+		},
+		{
+			"name": "Chevy Silverado",
+			"artist": "Bailey Zimmerman",
+			"image": "https://charts-static.billboard.com/img/2022/02/baileyzimmerman-8gx-180x180.jpg",
+			"rank": 49,
+			"last_week_rank": 40,
+			"peak_rank": 0,
+			"weeks_on_chart": 9,
+			"spotify_data": {
+				"artistQueried": "Bailey Zimmerman",
+				"id": "2g91Y7tUI0xBX7ZdlkSCLe",
+				"name": "Chevy Silverado",
+				"artists": [
+					"Bailey Zimmerman"
+				],
+				"album_name": "Different Night Same Rodeo",
+				"type": "album",
+				"artistMatch": "step1 (album)",
+				"isrc": "USWB12501510",
+				"preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/6b/45/2a6b4543-fe61-4672-b1e4-6f4050c9a4bd/mzaf_17423002572795370506.plus.aac.p.m4a"
+			}
+		},
+		{
 			"name": "Get To Drinkin'",
 			"artist": "Zach John King",
 			"image": "https://charts-static.billboard.com/img/2026/03/zachjohnking-000-gettodrinkin-ye9-180x180.jpg",
 			"rank": 50,
 			"last_week_rank": 43,
 			"peak_rank": 0,
-			"weeks_on_chart": 4,
+			"weeks_on_chart": 5,
 			"spotify_data": {
 				"artistQueried": "Zach John King",
 				"id": "61fEaMHDhvx2kKBYkuUWD1",
